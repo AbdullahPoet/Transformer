@@ -1,0 +1,23 @@
+{
+  "config": {
+    "drive_root": "/content/drive/MyDrive/Transformer",
+    "tokenized_folder": "tokenized_data",
+    "trained_embedding_folder": "trained_embeddings",
+    "output_folder": "position_encoded_embeddings",
+    "embedding_dimension": 128,
+    "max_sequence_length": 32,
+    "batch_size": 128,
+    "padding_id": 0,
+    "scale_token_embeddings": true,
+    "save_as_float16": true
+  },
+  "saved_files": {
+    "train": "/content/drive/MyDrive/Transformer/position_encoded_embeddings/128d/train_position_encoded.pt",
+    "validation": "/content/drive/MyDrive/Transformer/position_encoded_embeddings/128d/validation_position_encoded.pt",
+    "test": "/content/drive/MyDrive/Transformer/position_encoded_embeddings/128d/test_position_encoded.pt"
+  },
+  "formula": {
+    "even_dimensions": "sin(position / 10000^(dimension/d_model))",
+    "odd_dimensions": "cos(position / 10000^((dimension-1)/d_model))"
+  }
+}
