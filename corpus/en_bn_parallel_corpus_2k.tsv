@@ -1,0 +1,2001 @@
+split	en	bn
+train	There is a hall in the window.	হলে একটি জানালা আছে।
+train	Please wait for the teacher this morning.	দয়া করে আজ সকালে শিক্ষকের জন্য অপেক্ষা করুন।
+train	after class, the family listens to music.	ক্লাসের পরে পরিবারটি গান শোনে।
+train	The programmer uses the computer to solve a problem.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	Where can I buy a notebook in this village?	আমি এই গ্রামে একটি খাতা কোথায় কিনতে পারি?
+train	The student planted a tree in the evening.	শিক্ষার্থী সন্ধ্যায় একটি গাছ লাগিয়েছে।
+train	The shirt is yellow.	শার্টটি হলুদ।
+train	Please send the message before class.	দয়া করে ক্লাসের আগে বার্তাটি পাঠান।
+train	the doctor goes to the hospital every week.	ডাক্তার প্রতি সপ্তাহে হাসপাতালে যায়।
+train	We measured inference time for the validation set.	আমরা ভ্যালিডেশন সেটের ইনফারেন্স সময় পরিমাপ করেছি।
+train	Where can I buy a new shirt in the city center?	আমি শহরের কেন্দ্রে একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	My friend will finish the project before noon.	আমার বন্ধু দুপুরের আগে প্রকল্পটি শেষ করবে।
+train	The pharmacy is hospital the in front of.	ওষুধের দোকানটি হাসপাতালটির সামনে।
+train	The technician uses the computer to store information.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	There is a living room in the table.	বসার ঘরে একটি টেবিল আছে।
+train	The shirt is purple.	শার্টটি বেগুনি।
+train	The attention model is trained for question answering.	অ্যাটেনশন মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	We measured training loss for the training set.	আমরা প্রশিক্ষণ সেটের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	The pharmacy is library the to the left of.	ওষুধের দোকানটি গ্রন্থাগারটির বাম পাশে।
+train	Please write your name this morning.	দয়া করে আজ সকালে আপনার নাম লিখুন।
+train	The physiotherapist explained stress management to the patient.	ফিজিওথেরাপিস্ট রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	There is a hall in the computer.	হলে একটি কম্পিউটার আছে।
+train	There is a waiting room in the telephone.	অপেক্ষাকক্ষে একটি টেলিফোন আছে।
+train	The student sent the email during the break.	শিক্ষার্থী বিরতির সময় ইমেইলটি পাঠিয়েছে।
+train	The traveler goes to Khulna by car.	ভ্রমণকারী খুলনায় গাড়িতে যায়।
+train	my brother reads an article every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	my sister can solve puzzles very well.	আমার বোন খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	the teacher goes to the library every week.	শিক্ষক প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	The student studies chemistry on Friday.	শিক্ষার্থী রসায়ন শুক্রবার পড়ে।
+train	the farmer goes to the museum every week.	কৃষক প্রতি সপ্তাহে জাদুঘরে যায়।
+train	The pharmacy is post office the opposite.	ওষুধের দোকানটি ডাকঘরটির বিপরীতে।
+train	The baseline model is trained for intent detection.	বেসলাইন মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The pharmacy is school the in front of.	ওষুধের দোকানটি স্কুলটির সামনে।
+train	Please close the window now.	দয়া করে এখন জানালাটি বন্ধ করুন।
+train	Where can I buy a bus pass in the airport?	আমি বিমানবন্দরে একটি বাস পাস কোথায় কিনতে পারি?
+train	The engineer uses the computer to write code.	প্রকৌশলী কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	The engineer uses the computer to prepare a presentation.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The book is yellow.	বইটি হলুদ।
+train	There is a bedroom in the chair.	শোবার ঘরে একটি চেয়ার আছে।
+train	The traveler goes to Rajshahi by car.	ভ্রমণকারী রাজশাহীতে গাড়িতে যায়।
+train	my brother can solve puzzles very well.	আমার ভাই খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	If it remains clear, we will travel carefully.	যদি আকাশ পরিষ্কার থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	The programmer uses the computer to train a model.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	The student uses the computer to solve a problem.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	The student checked the results on Monday.	শিক্ষার্থী সোমবার ফলাফলগুলো পরীক্ষা করেছে।
+train	my friend can explain lessons very well.	আমার বন্ধু খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	Rina can organize events very well.	রিনা খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	If it is sunny, we will close the windows.	যদি রোদ থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	my brother can use a computer very well.	আমার ভাই খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The multilingual model is trained for next-token prediction.	বহুভাষিক মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	Rina likes chicken.	রিনা মুরগির মাংস পছন্দ করে।
+train	Karim reads a poem every evening.	করিম প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	The cup is red.	কাপটি লাল।
+train	Mina goes to the museum every week.	মিনা প্রতি সপ্তাহে জাদুঘরে যায়।
+train	my sister reads an article every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	Rahim can write clearly very well.	রহিম খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	We measured BLEU score for the training set.	আমরা প্রশিক্ষণ সেটের ব্লু স্কোর পরিমাপ করেছি।
+train	We measured parameter count for the test set.	আমরা টেস্ট সেটের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	My friend will travel to the city at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে শহরে যাবে।
+train	every evening, the family watches a movie.	প্রতিদিন সন্ধ্যায় পরিবারটি একটি সিনেমা দেখে।
+train	my brother reads a short story every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	my sister likes vegetables.	আমার বোন সবজি পছন্দ করে।
+train	The traveler goes to Chattogram by boat.	ভ্রমণকারী চট্টগ্রামে নৌকায় যায়।
+train	There is a office in the chair.	অফিসে একটি চেয়ার আছে।
+train	the student reads a history book every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	The dentist explained safe medicine use to the patient.	দন্তচিকিৎসক রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	The traveler goes to the river port by airplane.	ভ্রমণকারী নদীবন্দরে বিমানে যায়।
+train	If it remains clear, we will play outside.	যদি আকাশ পরিষ্কার থাকে, আমরা বাইরে খেলব।
+train	The student answered the question this morning.	শিক্ষার্থী আজ সকালে প্রশ্নটির উত্তর দিয়েছে।
+train	the student reads a newspaper every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	The traveler goes to Khulna by motorcycle.	ভ্রমণকারী খুলনায় মোটরসাইকেলে যায়।
+train	We measured inference time for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের ইনফারেন্স সময় পরিমাপ করেছি।
+train	The compact model is trained for text summarization.	কমপ্যাক্ট মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	The developer uses the computer to design a website.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The small Transformer is trained for text classification.	ছোট ট্রান্সফরমারটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	The pharmacy is library the to the right of.	ওষুধের দোকানটি গ্রন্থাগারটির ডান পাশে।
+train	My friend will prepare the documents this afternoon.	আমার বন্ধু আজ বিকেলে কাগজপত্র প্রস্তুত করবে।
+train	The student prepared breakfast after class.	শিক্ষার্থী ক্লাসের পরে সকালের নাশতা তৈরি করেছে।
+train	Where can I buy fresh vegetables in the station?	আমি স্টেশনে তাজা সবজি কোথায় কিনতে পারি?
+train	The designer uses the computer to test the software.	ডিজাইনার কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	We measured perplexity for the test set.	আমরা টেস্ট সেটের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	the doctor likes mangoes.	ডাক্তার আম পছন্দ করে।
+train	my brother goes to school every week.	আমার ভাই প্রতি সপ্তাহে স্কুলে যায়।
+train	The student studies economics at night.	শিক্ষার্থী অর্থনীতি রাতে পড়ে।
+train	the farmer goes to the market every week.	কৃষক প্রতি সপ্তাহে বাজারে যায়।
+train	my brother goes to the village every week.	আমার ভাই প্রতি সপ্তাহে গ্রামে যায়।
+train	There is a office in the fan.	অফিসে একটি পাখা আছে।
+train	The counselor explained stress management to the patient.	পরামর্শদাতা রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	There is a waiting room in the whiteboard.	অপেক্ষাকক্ষে একটি সাদা বোর্ড আছে।
+train	If it is hot, we will cancel the picnic.	যদি গরম থাকে, আমরা বনভোজন বাতিল করব।
+train	The translation model is trained for next-token prediction.	অনুবাদ মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	My friend will prepare the documents at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে কাগজপত্র প্রস্তুত করবে।
+train	The student cleaned the room last week.	শিক্ষার্থী গত সপ্তাহে ঘরটি পরিষ্কার করেছে।
+train	Rina likes vegetables.	রিনা সবজি পছন্দ করে।
+train	The student prepared breakfast in the evening.	শিক্ষার্থী সন্ধ্যায় সকালের নাশতা তৈরি করেছে।
+train	The pharmacy is market the behind.	ওষুধের দোকানটি বাজারটির পেছনে।
+train	The pharmacist explained dental care to the patient.	ফার্মাসিস্ট রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The kite is blue.	ঘুড়িটি নীল।
+train	my sister can ride a bicycle very well.	আমার বোন খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	Mina likes vegetables.	মিনা সবজি পছন্দ করে।
+train	If it is windy, we will stay at home.	যদি বাতাস থাকে, আমরা বাড়িতে থাকব।
+train	The student studies chemistry on Wednesday.	শিক্ষার্থী রসায়ন বুধবার পড়ে।
+train	Mina can speak English very well.	মিনা খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	The car is black.	গাড়িটি কালো।
+train	The pharmacy is bank the opposite.	ওষুধের দোকানটি ব্যাংকটির বিপরীতে।
+train	the farmer likes soup.	কৃষক স্যুপ পছন্দ করে।
+train	Please open the door one more time.	দয়া করে আরেকবার দরজাটি খুলুন।
+train	We measured validation loss for the second experiment.	আমরা দ্বিতীয় পরীক্ষার ভ্যালিডেশন লস পরিমাপ করেছি।
+train	My friend will call the manager next Monday.	আমার বন্ধু আগামী সোমবার ব্যবস্থাপককে ফোন করবে।
+train	during the weekend, the family visits the grandparents.	সাপ্তাহিক ছুটিতে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	The umbrella is yellow.	ছাতাটি হলুদ।
+train	every morning, the family walks in the park.	প্রতিদিন সকালে পরিবারটি পার্কে হাঁটে।
+train	My friend will meet the teacher this afternoon.	আমার বন্ধু আজ বিকেলে শিক্ষকের সঙ্গে দেখা করবে।
+train	my brother goes to the museum every week.	আমার ভাই প্রতি সপ্তাহে জাদুঘরে যায়।
+train	my brother can play football very well.	আমার ভাই খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	The traveler goes to the airport by metro.	ভ্রমণকারী বিমানবন্দরে মেট্রোতে যায়।
+train	We measured accuracy for the new model.	আমরা নতুন মডেলের নির্ভুলতা পরিমাপ করেছি।
+train	my brother goes to the university every week.	আমার ভাই প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The researcher uses the computer to read an article.	গবেষক কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	The cup is yellow.	কাপটি হলুদ।
+train	My friend will join the class before noon.	আমার বন্ধু দুপুরের আগে ক্লাসে যোগ দেবে।
+train	Where can I buy a new shirt in this neighborhood?	আমি এই এলাকায় একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	The student studies Bangla in the afternoon.	শিক্ষার্থী বাংলা বিকেলে পড়ে।
+train	The pharmacy is market the opposite.	ওষুধের দোকানটি বাজারটির বিপরীতে।
+train	every evening, the family shares stories.	প্রতিদিন সন্ধ্যায় পরিবারটি গল্প ভাগাভাগি করে।
+train	Please close the window before you leave.	দয়া করে যাওয়ার আগে জানালাটি বন্ধ করুন।
+train	There is a bedroom in the fan.	শোবার ঘরে একটি পাখা আছে।
+train	There is a laboratory in the telephone.	গবেষণাগারে একটি টেলিফোন আছে।
+train	We measured training loss for the second experiment.	আমরা দ্বিতীয় পরীক্ষার প্রশিক্ষণ লস পরিমাপ করেছি।
+train	There is a store in the whiteboard.	দোকানে একটি সাদা বোর্ড আছে।
+train	the doctor likes chicken.	ডাক্তার মুরগির মাংস পছন্দ করে।
+train	The student studies computer science on Wednesday.	শিক্ষার্থী কম্পিউটার বিজ্ঞান বুধবার পড়ে।
+train	Rahim can cook rice very well.	রহিম খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The surgeon explained regular exercise to the patient.	সার্জন রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student planted a tree before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে একটি গাছ লাগিয়েছে।
+train	Karim can ride a bicycle very well.	করিম খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	The student checked the results this morning.	শিক্ষার্থী আজ সকালে ফলাফলগুলো পরীক্ষা করেছে।
+train	The pharmacy is market the north of.	ওষুধের দোকানটি বাজারটির উত্তরে।
+train	Where can I buy a mobile charger in this village?	আমি এই গ্রামে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	We measured accuracy for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের নির্ভুলতা পরিমাপ করেছি।
+train	Please answer the question without delay.	দয়া করে বিলম্ব না করে প্রশ্নটির উত্তর দিন।
+train	Rina goes to the library every week.	রিনা প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	The student sent the email at noon.	শিক্ষার্থী দুপুরে ইমেইলটি পাঠিয়েছে।
+train	The attention model is trained for next-token prediction.	অ্যাটেনশন মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	We measured perplexity for the baseline model.	আমরা বেসলাইন মডেলের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	the farmer reads a newspaper every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	The experimental model is trained for language identification.	পরীক্ষামূলক মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The student answered the question in the evening.	শিক্ষার্থী সন্ধ্যায় প্রশ্নটির উত্তর দিয়েছে।
+train	Please bring a notebook before you leave.	দয়া করে যাওয়ার আগে একটি খাতা আনুন।
+train	the farmer reads a report every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	My friend will call the manager next week.	আমার বন্ধু আগামী সপ্তাহে ব্যবস্থাপককে ফোন করবে।
+train	The student cleaned the room on Monday.	শিক্ষার্থী সোমবার ঘরটি পরিষ্কার করেছে।
+train	There is a office in the table.	অফিসে একটি টেবিল আছে।
+train	We measured perplexity for the small model.	আমরা ছোট মডেলের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	The shopkeeper packed six pens.	দোকানদার ছয়টি কলম প্যাক করেছে।
+train	The student studies physics on Friday.	শিক্ষার্থী পদার্থবিজ্ঞান শুক্রবার পড়ে।
+train	The bag is red.	ব্যাগটি লাল।
+train	Where can I buy a mobile charger in the hospital area?	আমি হাসপাতাল এলাকায় একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	The student answered the question on Monday.	শিক্ষার্থী সোমবার প্রশ্নটির উত্তর দিয়েছে।
+train	Rahim can use a computer very well.	রহিম খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	Please bring a notebook without delay.	দয়া করে বিলম্ব না করে একটি খাতা আনুন।
+train	Mina goes to the park every week.	মিনা প্রতি সপ্তাহে পার্কে যায়।
+train	The kite is white.	ঘুড়িটি সাদা।
+train	The student studies biology after class.	শিক্ষার্থী জীববিজ্ঞান ক্লাসের পরে পড়ে।
+train	the young athlete can use a computer very well.	তরুণ খেলোয়াড় খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The small Transformer is trained for next-token prediction.	ছোট ট্রান্সফরমারটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	The small Transformer is trained for headline generation.	ছোট ট্রান্সফরমারটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	We measured tokenization speed for the test set.	আমরা টেস্ট সেটের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	The bag is pink.	ব্যাগটি গোলাপি।
+train	The programmer uses the computer to write code.	প্রোগ্রামার কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	Where can I buy a notebook in the station?	আমি স্টেশনে একটি খাতা কোথায় কিনতে পারি?
+train	the teacher can explain lessons very well.	শিক্ষক খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	Rahim can play football very well.	রহিম খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	my sister can explain lessons very well.	আমার বোন খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	Where can I buy some medicine in the bus terminal?	আমি বাস টার্মিনালে কিছু ওষুধ কোথায় কিনতে পারি?
+train	the student likes soup.	শিক্ষার্থী স্যুপ পছন্দ করে।
+train	The student studies computer science after class.	শিক্ষার্থী কম্পিউটার বিজ্ঞান ক্লাসের পরে পড়ে।
+train	Where can I buy a train ticket in this village?	আমি এই গ্রামে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	my brother reads a poem every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	The compact model is trained for text classification.	কমপ্যাক্ট মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	The student completed the assignment during the break.	শিক্ষার্থী বিরতির সময় অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	the teacher can write clearly very well.	শিক্ষক খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	The health worker explained drinking water to the patient.	স্বাস্থ্যকর্মী রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	My friend will meet the teacher during the holiday.	আমার বন্ধু ছুটির সময় শিক্ষকের সঙ্গে দেখা করবে।
+train	We measured validation loss for the baseline model.	আমরা বেসলাইন মডেলের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	The traveler goes to Dhaka by motorcycle.	ভ্রমণকারী ঢাকায় মোটরসাইকেলে যায়।
+train	the doctor likes vegetables.	ডাক্তার সবজি পছন্দ করে।
+train	the doctor reads a magazine every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	The traveler goes to Khulna by metro.	ভ্রমণকারী খুলনায় মেট্রোতে যায়।
+train	the farmer likes coffee.	কৃষক কফি পছন্দ করে।
+train	during the weekend, the family walks in the park.	সাপ্তাহিক ছুটিতে পরিবারটি পার্কে হাঁটে।
+train	The pharmacy is library the in front of.	ওষুধের দোকানটি গ্রন্থাগারটির সামনে।
+train	The researcher uses the computer to create a report.	গবেষক কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	Mina likes fish.	মিনা মাছ পছন্দ করে।
+train	The pharmacy is station the near.	ওষুধের দোকানটি স্টেশনটির কাছে।
+train	There is a kitchen in the computer.	রান্নাঘরে একটি কম্পিউটার আছে।
+train	We measured memory usage for the training set.	আমরা প্রশিক্ষণ সেটের মেমরি ব্যবহার পরিমাপ করেছি।
+train	The student studies economics on Friday.	শিক্ষার্থী অর্থনীতি শুক্রবার পড়ে।
+train	There is a kitchen in the clock.	রান্নাঘরে একটি ঘড়ি আছে।
+train	We measured memory usage for the validation set.	আমরা ভ্যালিডেশন সেটের মেমরি ব্যবহার পরিমাপ করেছি।
+train	The traveler goes to the airport by train.	ভ্রমণকারী বিমানবন্দরে ট্রেনে যায়।
+train	The student opened the window after class.	শিক্ষার্থী ক্লাসের পরে জানালাটি খুলেছে।
+train	The kite is red.	ঘুড়িটি লাল।
+train	The doctor explained routine checkups to the patient.	ডাক্তার রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	on Friday, the family listens to music.	শুক্রবার পরিবারটি গান শোনে।
+train	the farmer goes to the village every week.	কৃষক প্রতি সপ্তাহে গ্রামে যায়।
+train	Please send the message as soon as possible.	দয়া করে যত দ্রুত সম্ভব বার্তাটি পাঠান।
+train	Karim can explain lessons very well.	করিম খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	There is a office in the cabinet.	অফিসে একটি আলমারি আছে।
+train	Where can I buy a notebook in the city center?	আমি শহরের কেন্দ্রে একটি খাতা কোথায় কিনতে পারি?
+train	The student checked the results last week.	শিক্ষার্থী গত সপ্তাহে ফলাফলগুলো পরীক্ষা করেছে।
+train	If it is cold, we will travel carefully.	যদি ঠান্ডা থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	The analyst uses the computer to train a model.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	The traveler goes to Rajshahi by motorcycle.	ভ্রমণকারী রাজশাহীতে মোটরসাইকেলে যায়।
+train	My friend will buy some groceries next Monday.	আমার বন্ধু আগামী সোমবার কিছু মুদি পণ্য কিনবে।
+train	The compact model is trained for Bangla-to-English translation.	কমপ্যাক্ট মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	There is a kitchen in the fan.	রান্নাঘরে একটি পাখা আছে।
+train	Please open the door now.	দয়া করে এখন দরজাটি খুলুন।
+train	There is a classroom in the telephone.	শ্রেণিকক্ষে একটি টেলিফোন আছে।
+train	The traveler goes to Khulna by taxi.	ভ্রমণকারী খুলনায় ট্যাক্সিতে যায়।
+train	Karim goes to the village every week.	করিম প্রতি সপ্তাহে গ্রামে যায়।
+train	the teacher can draw pictures very well.	শিক্ষক খুব ভালোভাবে ছবি আঁকতে পারে।
+train	My friend will review the lesson next week.	আমার বন্ধু আগামী সপ্তাহে পাঠটি পুনরায় দেখবে।
+train	Karim can cook rice very well.	করিম খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The shopkeeper packed eight notebooks.	দোকানদার আটটি খাতা প্যাক করেছে।
+train	My friend will attend the meeting this afternoon.	আমার বন্ধু আজ বিকেলে সভায় অংশ নেবে।
+train	The shopkeeper packed seven shirts.	দোকানদার সাতটি শার্ট প্যাক করেছে।
+train	The shopkeeper packed four books.	দোকানদার চারটি বই প্যাক করেছে।
+train	There is a laboratory in the chair.	গবেষণাগারে একটি চেয়ার আছে।
+train	my sister reads a short story every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	The shopkeeper packed four shirts.	দোকানদার চারটি শার্ট প্যাক করেছে।
+train	Karim goes to the museum every week.	করিম প্রতি সপ্তাহে জাদুঘরে যায়।
+train	Where can I buy a dictionary in the bus terminal?	আমি বাস টার্মিনালে একটি অভিধান কোথায় কিনতে পারি?
+train	before dinner, the family shares stories.	রাতের খাবারের আগে পরিবারটি গল্প ভাগাভাগি করে।
+train	My friend will visit the library after breakfast.	আমার বন্ধু সকালের নাশতার পরে গ্রন্থাগারে যাবে।
+train	the student reads a science book every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	Rina can draw pictures very well.	রিনা খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The physiotherapist explained hand hygiene to the patient.	ফিজিওথেরাপিস্ট রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The traveler goes to the airport by bicycle.	ভ্রমণকারী বিমানবন্দরে সাইকেলে যায়।
+train	The developer uses the computer to train a model.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	The pharmacy is hospital the south of.	ওষুধের দোকানটি হাসপাতালটির দক্ষিণে।
+train	My friend will prepare the documents before noon.	আমার বন্ধু দুপুরের আগে কাগজপত্র প্রস্তুত করবে।
+train	Mina reads a poem every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	We measured accuracy for the second experiment.	আমরা দ্বিতীয় পরীক্ষার নির্ভুলতা পরিমাপ করেছি।
+train	There is a store in the computer.	দোকানে একটি কম্পিউটার আছে।
+train	The counselor explained proper sleep to the patient.	পরামর্শদাতা রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	the farmer reads an article every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	The student completed the assignment on Monday.	শিক্ষার্থী সোমবার অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	The attention model is trained for Bangla-to-English translation.	অ্যাটেনশন মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	The programmer uses the computer to read an article.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	The student studies Bangla after class.	শিক্ষার্থী বাংলা ক্লাসের পরে পড়ে।
+train	Where can I buy a bottle of water in the hospital area?	আমি হাসপাতাল এলাকায় এক বোতল পানি কোথায় কিনতে পারি?
+train	Where can I buy a bottle of water in the shopping mall?	আমি শপিং মলে এক বোতল পানি কোথায় কিনতে পারি?
+train	the farmer likes chicken.	কৃষক মুরগির মাংস পছন্দ করে।
+train	The student studies biology on Wednesday.	শিক্ষার্থী জীববিজ্ঞান বুধবার পড়ে।
+train	The nurse explained safe medicine use to the patient.	নার্স রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please send the message carefully.	দয়া করে সাবধানে বার্তাটি পাঠান।
+train	We measured memory usage for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের মেমরি ব্যবহার পরিমাপ করেছি।
+train	We measured perplexity for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	The flower is green.	ফুলটি সবুজ।
+train	My friend will review the lesson after breakfast.	আমার বন্ধু সকালের নাশতার পরে পাঠটি পুনরায় দেখবে।
+train	my sister goes to the park every week.	আমার বোন প্রতি সপ্তাহে পার্কে যায়।
+train	The scientist uses the computer to prepare a presentation.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	the teacher can organize events very well.	শিক্ষক খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	Please bring a notebook as soon as possible.	দয়া করে যত দ্রুত সম্ভব একটি খাতা আনুন।
+train	Please bring a notebook when you are ready.	দয়া করে আপনি প্রস্তুত হলে একটি খাতা আনুন।
+train	Please check the document without delay.	দয়া করে বিলম্ব না করে নথিটি পরীক্ষা করুন।
+train	The student studies Bangla before class.	শিক্ষার্থী বাংলা ক্লাসের আগে পড়ে।
+train	There is a hall in the clock.	হলে একটি ঘড়ি আছে।
+train	The neural network is trained for text classification.	নিউরাল নেটওয়ার্কটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	Please close the window when you are ready.	দয়া করে আপনি প্রস্তুত হলে জানালাটি বন্ধ করুন।
+train	There is a living room in the clock.	বসার ঘরে একটি ঘড়ি আছে।
+train	the doctor goes to the station every week.	ডাক্তার প্রতি সপ্তাহে স্টেশনে যায়।
+train	The cup is green.	কাপটি সবুজ।
+train	Karim likes mangoes.	করিম আম পছন্দ করে।
+train	every evening, the family eats dinner together.	প্রতিদিন সন্ধ্যায় পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	The traveler goes to the countryside by boat.	ভ্রমণকারী গ্রামাঞ্চলে নৌকায় যায়।
+train	The traveler goes to the river port by rickshaw.	ভ্রমণকারী নদীবন্দরে রিকশায় যায়।
+train	The shopkeeper packed six shirts.	দোকানদার ছয়টি শার্ট প্যাক করেছে।
+train	My friend will join the class this evening.	আমার বন্ধু আজ সন্ধ্যায় ক্লাসে যোগ দেবে।
+train	My friend will call the manager this afternoon.	আমার বন্ধু আজ বিকেলে ব্যবস্থাপককে ফোন করবে।
+train	every morning, the family plans the next week.	প্রতিদিন সকালে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	The developer uses the computer to read an article.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	We measured tokenization speed for the training set.	আমরা প্রশিক্ষণ সেটের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	Please save the file carefully.	দয়া করে সাবধানে ফাইলটি সংরক্ষণ করুন।
+train	the teacher goes to the office every week.	শিক্ষক প্রতি সপ্তাহে অফিসে যায়।
+train	Please read the instructions when you are ready.	দয়া করে আপনি প্রস্তুত হলে নির্দেশনাগুলো পড়ুন।
+train	My friend will buy some groceries this afternoon.	আমার বন্ধু আজ বিকেলে কিছু মুদি পণ্য কিনবে।
+train	the doctor goes to the museum every week.	ডাক্তার প্রতি সপ্তাহে জাদুঘরে যায়।
+train	Please wait for the teacher as soon as possible.	দয়া করে যত দ্রুত সম্ভব শিক্ষকের জন্য অপেক্ষা করুন।
+train	Karim goes to school every week.	করিম প্রতি সপ্তাহে স্কুলে যায়।
+train	Please save the file before you leave.	দয়া করে যাওয়ার আগে ফাইলটি সংরক্ষণ করুন।
+train	every evening, the family listens to music.	প্রতিদিন সন্ধ্যায় পরিবারটি গান শোনে।
+train	My friend will attend the meeting before noon.	আমার বন্ধু দুপুরের আগে সভায় অংশ নেবে।
+train	Karim reads a history book every evening.	করিম প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	Rahim reads a report every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The developer uses the computer to store information.	ডেভেলপার কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	every morning, the family watches a movie.	প্রতিদিন সকালে পরিবারটি একটি সিনেমা দেখে।
+train	The pharmacy is hospital the opposite.	ওষুধের দোকানটি হাসপাতালটির বিপরীতে।
+train	The pharmacy is library the opposite.	ওষুধের দোকানটি গ্রন্থাগারটির বিপরীতে।
+train	The student visited the museum last week.	শিক্ষার্থী গত সপ্তাহে জাদুঘরটি ঘুরে দেখেছে।
+train	My friend will travel to the city before noon.	আমার বন্ধু দুপুরের আগে শহরে যাবে।
+train	the student can speak English very well.	শিক্ষার্থী খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	my friend can draw pictures very well.	আমার বন্ধু খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The student studies geography in the morning.	শিক্ষার্থী ভূগোল সকালে পড়ে।
+train	We measured inference time for the baseline model.	আমরা বেসলাইন মডেলের ইনফারেন্স সময় পরিমাপ করেছি।
+train	Please save the file when you are ready.	দয়া করে আপনি প্রস্তুত হলে ফাইলটি সংরক্ষণ করুন।
+train	The student studies English on Monday.	শিক্ষার্থী ইংরেজি সোমবার পড়ে।
+train	The student studies English in the morning.	শিক্ষার্থী ইংরেজি সকালে পড়ে।
+train	The student studies computer science before class.	শিক্ষার্থী কম্পিউটার বিজ্ঞান ক্লাসের আগে পড়ে।
+train	the student can use a computer very well.	শিক্ষার্থী খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The pharmacy is bank the behind.	ওষুধের দোকানটি ব্যাংকটির পেছনে।
+train	The researcher uses the computer to test the software.	গবেষক কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	every night, the family plans the next week.	প্রতি রাতে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	the doctor goes to the university every week.	ডাক্তার প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The traveler goes to Rajshahi by airplane.	ভ্রমণকারী রাজশাহীতে বিমানে যায়।
+train	the student reads a short story every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	Please write your name without delay.	দয়া করে বিলম্ব না করে আপনার নাম লিখুন।
+train	The flower is purple.	ফুলটি বেগুনি।
+train	The student visited the museum after class.	শিক্ষার্থী ক্লাসের পরে জাদুঘরটি ঘুরে দেখেছে।
+train	There is a waiting room in the clock.	অপেক্ষাকক্ষে একটি ঘড়ি আছে।
+train	The student studies economics after class.	শিক্ষার্থী অর্থনীতি ক্লাসের পরে পড়ে।
+train	There is a laboratory in the whiteboard.	গবেষণাগারে একটি সাদা বোর্ড আছে।
+train	We measured generation quality for the validation set.	আমরা ভ্যালিডেশন সেটের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	Please answer the question before class.	দয়া করে ক্লাসের আগে প্রশ্নটির উত্তর দিন।
+train	Where can I buy a train ticket in the city center?	আমি শহরের কেন্দ্রে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	The traveler goes to the countryside by car.	ভ্রমণকারী গ্রামাঞ্চলে গাড়িতে যায়।
+train	The pharmacy is restaurant the behind.	ওষুধের দোকানটি রেস্তোরাঁটির পেছনে।
+train	The shopkeeper packed ten bottles.	দোকানদার দশটি বোতল প্যাক করেছে।
+train	The attention model is trained for text summarization.	অ্যাটেনশন মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	If it is hot, we will wear warm clothes.	যদি গরম থাকে, আমরা গরম কাপড় পরব।
+train	We measured BLEU score for the validation set.	আমরা ভ্যালিডেশন সেটের ব্লু স্কোর পরিমাপ করেছি।
+train	The student sent the email after class.	শিক্ষার্থী ক্লাসের পরে ইমেইলটি পাঠিয়েছে।
+train	my brother reads a textbook every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	The shopkeeper packed three shirts.	দোকানদার তিনটি শার্ট প্যাক করেছে।
+train	Please save the file as soon as possible.	দয়া করে যত দ্রুত সম্ভব ফাইলটি সংরক্ষণ করুন।
+train	The book is black.	বইটি কালো।
+train	Please check the document when you are ready.	দয়া করে আপনি প্রস্তুত হলে নথিটি পরীক্ষা করুন।
+train	If it is sunny, we will travel carefully.	যদি রোদ থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	my sister likes soup.	আমার বোন স্যুপ পছন্দ করে।
+train	The student checked the results during the break.	শিক্ষার্থী বিরতির সময় ফলাফলগুলো পরীক্ষা করেছে।
+train	If it is hot, we will visit the market.	যদি গরম থাকে, আমরা বাজারে যাব।
+train	The student studies chemistry after class.	শিক্ষার্থী রসায়ন ক্লাসের পরে পড়ে।
+train	my sister can write clearly very well.	আমার বোন খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	The student studies chemistry at night.	শিক্ষার্থী রসায়ন রাতে পড়ে।
+train	The multilingual model is trained for Bangla-to-English translation.	বহুভাষিক মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	The pharmacy is park the north of.	ওষুধের দোকানটি পার্কটির উত্তরে।
+train	The neural network is trained for text summarization.	নিউরাল নেটওয়ার্কটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	If it is hot, we will carry an umbrella.	যদি গরম থাকে, আমরা ছাতা সঙ্গে নেব।
+train	My friend will travel to the city during the holiday.	আমার বন্ধু ছুটির সময় শহরে যাবে।
+train	The designer uses the computer to design a website.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The traveler goes to the countryside by taxi.	ভ্রমণকারী গ্রামাঞ্চলে ট্যাক্সিতে যায়।
+train	The surgeon explained stress management to the patient.	সার্জন রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	The health worker explained hand hygiene to the patient.	স্বাস্থ্যকর্মী রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it becomes cooler, we will go to the park.	যদি আবহাওয়া ঠান্ডা হয়, আমরা পার্কে যাব।
+train	The shopkeeper packed six bottles.	দোকানদার ছয়টি বোতল প্যাক করেছে।
+train	Please check the document as soon as possible.	দয়া করে যত দ্রুত সম্ভব নথিটি পরীক্ষা করুন।
+train	We measured inference time for the new model.	আমরা নতুন মডেলের ইনফারেন্স সময় পরিমাপ করেছি।
+train	Rahim can explain lessons very well.	রহিম খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	We measured tokenization speed for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	the young athlete can ride a bicycle very well.	তরুণ খেলোয়াড় খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	the farmer reads a novel every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	The shopkeeper packed seven pens.	দোকানদার সাতটি কলম প্যাক করেছে।
+train	We measured training loss for the small model.	আমরা ছোট মডেলের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	Where can I buy a train ticket in this neighborhood?	আমি এই এলাকায় একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	There is a classroom in the chair.	শ্রেণিকক্ষে একটি চেয়ার আছে।
+train	There is a classroom in the clock.	শ্রেণিকক্ষে একটি ঘড়ি আছে।
+train	The dentist explained healthy eating to the patient.	দন্তচিকিৎসক রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	Karim reads a short story every evening.	করিম প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	Where can I buy a mobile charger in the airport?	আমি বিমানবন্দরে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	The kite is black.	ঘুড়িটি কালো।
+train	The student studies chemistry in the evening.	শিক্ষার্থী রসায়ন সন্ধ্যায় পড়ে।
+train	after class, the family eats dinner together.	ক্লাসের পরে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	If it remains clear, we will close the windows.	যদি আকাশ পরিষ্কার থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	Please close the window carefully.	দয়া করে সাবধানে জানালাটি বন্ধ করুন।
+train	The neural network is trained for headline generation.	নিউরাল নেটওয়ার্কটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	The car is pink.	গাড়িটি গোলাপি।
+train	The baseline model is trained for Bangla-to-English translation.	বেসলাইন মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	every morning, the family cooks together.	প্রতিদিন সকালে পরিবারটি একসঙ্গে রান্না করে।
+train	The car is white.	গাড়িটি সাদা।
+train	my brother can ride a bicycle very well.	আমার ভাই খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	Rina can explain lessons very well.	রিনা খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	Please open the door without delay.	দয়া করে বিলম্ব না করে দরজাটি খুলুন।
+train	The pharmacist explained healthy eating to the patient.	ফার্মাসিস্ট রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	Rahim can speak English very well.	রহিম খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	Where can I buy a notebook in the airport?	আমি বিমানবন্দরে একটি খাতা কোথায় কিনতে পারি?
+train	The shopkeeper packed two books.	দোকানদার দুটি বই প্যাক করেছে।
+train	The engineer uses the computer to read an article.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	There is a library in the lamp.	গ্রন্থাগারে একটি বাতি আছে।
+train	My friend will prepare the documents next week.	আমার বন্ধু আগামী সপ্তাহে কাগজপত্র প্রস্তুত করবে।
+train	Rina likes soup.	রিনা স্যুপ পছন্দ করে।
+train	Where can I buy a train ticket in the airport?	আমি বিমানবন্দরে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	every afternoon, the family cleans the house.	প্রতিদিন বিকেলে পরিবারটি বাড়ি পরিষ্কার করে।
+train	The nutritionist explained stress management to the patient.	পুষ্টিবিদ রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	We measured memory usage for the small model.	আমরা ছোট মডেলের মেমরি ব্যবহার পরিমাপ করেছি।
+train	The neural network is trained for Bangla-to-English translation.	নিউরাল নেটওয়ার্কটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	The pharmacy is school the to the right of.	ওষুধের দোকানটি স্কুলটির ডান পাশে।
+train	The traveler goes to Rajshahi by boat.	ভ্রমণকারী রাজশাহীতে নৌকায় যায়।
+train	If it is windy, we will close the windows.	যদি বাতাস থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	The bag is brown.	ব্যাগটি বাদামি।
+train	The programmer uses the computer to test the software.	প্রোগ্রামার কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	Where can I buy a train ticket in the bus terminal?	আমি বাস টার্মিনালে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	Where can I buy fresh vegetables in the hospital area?	আমি হাসপাতাল এলাকায় তাজা সবজি কোথায় কিনতে পারি?
+train	Karim likes bread.	করিম রুটি পছন্দ করে।
+train	The student cleaned the room last night.	শিক্ষার্থী গত রাতে ঘরটি পরিষ্কার করেছে।
+train	Please write your name as soon as possible.	দয়া করে যত দ্রুত সম্ভব আপনার নাম লিখুন।
+train	Where can I buy a bus pass in the shopping mall?	আমি শপিং মলে একটি বাস পাস কোথায় কিনতে পারি?
+train	The nutritionist explained drinking water to the patient.	পুষ্টিবিদ রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	the doctor likes tea.	ডাক্তার চা পছন্দ করে।
+train	The student planted a tree during the break.	শিক্ষার্থী বিরতির সময় একটি গাছ লাগিয়েছে।
+train	The kite is green.	ঘুড়িটি সবুজ।
+train	The technician uses the computer to prepare a presentation.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The experimental model is trained for question answering.	পরীক্ষামূলক মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The counselor explained hand hygiene to the patient.	পরামর্শদাতা রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	We measured validation loss for the training set.	আমরা প্রশিক্ষণ সেটের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	Please write your name now.	দয়া করে এখন আপনার নাম লিখুন।
+train	Rahim likes tea.	রহিম চা পছন্দ করে।
+train	The pharmacy is restaurant the opposite.	ওষুধের দোকানটি রেস্তোরাঁটির বিপরীতে।
+train	The pharmacy is market the beside.	ওষুধের দোকানটি বাজারটির পাশে।
+train	The student cleaned the room during the break.	শিক্ষার্থী বিরতির সময় ঘরটি পরিষ্কার করেছে।
+train	the doctor likes rice.	ডাক্তার ভাত পছন্দ করে।
+train	the student likes coffee.	শিক্ষার্থী কফি পছন্দ করে।
+train	The traveler goes to Dhaka by taxi.	ভ্রমণকারী ঢাকায় ট্যাক্সিতে যায়।
+train	Please close the window this morning.	দয়া করে আজ সকালে জানালাটি বন্ধ করুন।
+train	If it becomes cooler, we will play outside.	যদি আবহাওয়া ঠান্ডা হয়, আমরা বাইরে খেলব।
+train	The pharmacy is hospital the to the right of.	ওষুধের দোকানটি হাসপাতালটির ডান পাশে।
+train	The cup is black.	কাপটি কালো।
+train	The traveler goes to the countryside by motorcycle.	ভ্রমণকারী গ্রামাঞ্চলে মোটরসাইকেলে যায়।
+train	Please read the instructions after lunch.	দয়া করে দুপুরের খাবারের পরে নির্দেশনাগুলো পড়ুন।
+train	the doctor likes fish.	ডাক্তার মাছ পছন্দ করে।
+train	The doctor explained regular exercise to the patient.	ডাক্তার রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	Where can I buy a new shirt in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	The bicycle is yellow.	সাইকেলটি হলুদ।
+train	The technician uses the computer to design a website.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The pharmacy is bank the within walking distance of.	ওষুধের দোকানটি ব্যাংকটির হাঁটা দূরত্বের মধ্যে।
+train	my friend can speak English very well.	আমার বন্ধু খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	There is a office in the lamp.	অফিসে একটি বাতি আছে।
+train	the student can play football very well.	শিক্ষার্থী খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	The door is black.	দরজাটি কালো।
+train	The pharmacy is hospital the north of.	ওষুধের দোকানটি হাসপাতালটির উত্তরে।
+train	every afternoon, the family plays indoor games.	প্রতিদিন বিকেলে পরিবারটি ঘরের ভেতর খেলা করে।
+train	My friend will attend the meeting at ten o'clock.	আমার বন্ধু দশটায় সভায় অংশ নেবে।
+train	The traveler goes to the city by metro.	ভ্রমণকারী শহরে মেট্রোতে যায়।
+train	The traveler goes to the countryside by train.	ভ্রমণকারী গ্রামাঞ্চলে ট্রেনে যায়।
+train	the teacher goes to the university every week.	শিক্ষক প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The shopkeeper packed six toys.	দোকানদার ছয়টি খেলনা প্যাক করেছে।
+train	There is a office in the whiteboard.	অফিসে একটি সাদা বোর্ড আছে।
+train	If it is sunny, we will cancel the picnic.	যদি রোদ থাকে, আমরা বনভোজন বাতিল করব।
+train	The surgeon explained healthy eating to the patient.	সার্জন রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it is windy, we will cancel the picnic.	যদি বাতাস থাকে, আমরা বনভোজন বাতিল করব।
+train	We measured BLEU score for the second experiment.	আমরা দ্বিতীয় পরীক্ষার ব্লু স্কোর পরিমাপ করেছি।
+train	The shopkeeper packed nine bottles.	দোকানদার নয়টি বোতল প্যাক করেছে।
+train	The traveler goes to Khulna by train.	ভ্রমণকারী খুলনায় ট্রেনে যায়।
+train	Please check the document now.	দয়া করে এখন নথিটি পরীক্ষা করুন।
+train	My friend will buy some groceries during the holiday.	আমার বন্ধু ছুটির সময় কিছু মুদি পণ্য কিনবে।
+train	The language model is trained for next-token prediction.	ভাষা মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	Please send the message before you leave.	দয়া করে যাওয়ার আগে বার্তাটি পাঠান।
+train	Please close the window after lunch.	দয়া করে দুপুরের খাবারের পরে জানালাটি বন্ধ করুন।
+train	My friend will finish the project after breakfast.	আমার বন্ধু সকালের নাশতার পরে প্রকল্পটি শেষ করবে।
+train	my brother likes rice.	আমার ভাই ভাত পছন্দ করে।
+train	We measured BLEU score for the small model.	আমরা ছোট মডেলের ব্লু স্কোর পরিমাপ করেছি।
+train	The experimental model is trained for headline generation.	পরীক্ষামূলক মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	My friend will meet the teacher at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে শিক্ষকের সঙ্গে দেখা করবে।
+train	If it is windy, we will carry an umbrella.	যদি বাতাস থাকে, আমরা ছাতা সঙ্গে নেব।
+train	The student completed the assignment last night.	শিক্ষার্থী গত রাতে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	The technician uses the computer to read an article.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	We measured validation loss for the translation system.	আমরা অনুবাদ ব্যবস্থার ভ্যালিডেশন লস পরিমাপ করেছি।
+train	Karim reads a newspaper every evening.	করিম প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	If it is sunny, we will play outside.	যদি রোদ থাকে, আমরা বাইরে খেলব।
+train	The student studies economics on Monday.	শিক্ষার্থী অর্থনীতি সোমবার পড়ে।
+train	The shopkeeper packed three boxes.	দোকানদার তিনটি বাক্স প্যাক করেছে।
+train	before dinner, the family plays indoor games.	রাতের খাবারের আগে পরিবারটি ঘরের ভেতর খেলা করে।
+train	The surgeon explained first aid to the patient.	সার্জন রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is mosque the near.	ওষুধের দোকানটি মসজিদটির কাছে।
+train	The traveler goes to the airport by airplane.	ভ্রমণকারী বিমানবন্দরে বিমানে যায়।
+train	The pharmacy is mosque the behind.	ওষুধের দোকানটি মসজিদটির পেছনে।
+train	The pharmacy is school the opposite.	ওষুধের দোকানটি স্কুলটির বিপরীতে।
+train	The counselor explained routine checkups to the patient.	পরামর্শদাতা রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	We measured training loss for the first experiment.	আমরা প্রথম পরীক্ষার প্রশিক্ষণ লস পরিমাপ করেছি।
+train	Rina can play football very well.	রিনা খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	The shopkeeper packed four packages.	দোকানদার চারটি প্যাকেট প্যাক করেছে।
+train	My friend will visit the library during the holiday.	আমার বন্ধু ছুটির সময় গ্রন্থাগারে যাবে।
+train	The traveler goes to Khulna by airplane.	ভ্রমণকারী খুলনায় বিমানে যায়।
+train	The encoder-decoder model is trained for intent detection.	এনকোডার-ডিকোডার মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	Please send the message this morning.	দয়া করে আজ সকালে বার্তাটি পাঠান।
+train	Mina reads a novel every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	The pharmacy is school the near.	ওষুধের দোকানটি স্কুলটির কাছে।
+train	The nurse explained proper sleep to the patient.	নার্স রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	There is a library in the telephone.	গ্রন্থাগারে একটি টেলিফোন আছে।
+train	Where can I buy a dictionary in the shopping mall?	আমি শপিং মলে একটি অভিধান কোথায় কিনতে পারি?
+train	The student studies biology at night.	শিক্ষার্থী জীববিজ্ঞান রাতে পড়ে।
+train	Where can I buy a cup of tea in the market?	আমি বাজারে এক কাপ চা কোথায় কিনতে পারি?
+train	Please write your name before you leave.	দয়া করে যাওয়ার আগে আপনার নাম লিখুন।
+train	My friend will review the lesson tomorrow.	আমার বন্ধু আগামীকাল পাঠটি পুনরায় দেখবে।
+train	The designer uses the computer to solve a problem.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	the doctor reads a novel every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	the farmer reads a textbook every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	There is a waiting room in the chair.	অপেক্ষাকক্ষে একটি চেয়ার আছে।
+train	The traveler goes to Chattogram by airplane.	ভ্রমণকারী চট্টগ্রামে বিমানে যায়।
+train	The door is red.	দরজাটি লাল।
+train	My friend will travel to the city this evening.	আমার বন্ধু আজ সন্ধ্যায় শহরে যাবে।
+train	The doctor explained hand hygiene to the patient.	ডাক্তার রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	There is a kitchen in the whiteboard.	রান্নাঘরে একটি সাদা বোর্ড আছে।
+train	The engineer uses the computer to test the software.	প্রকৌশলী কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	The pharmacist explained stress management to the patient.	ফার্মাসিস্ট রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	Where can I buy a dictionary in the hospital area?	আমি হাসপাতাল এলাকায় একটি অভিধান কোথায় কিনতে পারি?
+train	My friend will buy some groceries after breakfast.	আমার বন্ধু সকালের নাশতার পরে কিছু মুদি পণ্য কিনবে।
+train	There is a hall in the table.	হলে একটি টেবিল আছে।
+train	Mina reads a report every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The book is red.	বইটি লাল।
+train	The traveler goes to the airport by motorcycle.	ভ্রমণকারী বিমানবন্দরে মোটরসাইকেলে যায়।
+train	The encoder-decoder model is trained for headline generation.	এনকোডার-ডিকোডার মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	The surgeon explained safe medicine use to the patient.	সার্জন রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	We measured memory usage for the baseline model.	আমরা বেসলাইন মডেলের মেমরি ব্যবহার পরিমাপ করেছি।
+train	If it is cold, we will drink more water.	যদি ঠান্ডা থাকে, আমরা আরও পানি পান করব।
+train	The translation model is trained for question answering.	অনুবাদ মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The student studies geography on Friday.	শিক্ষার্থী ভূগোল শুক্রবার পড়ে।
+train	Rina goes to the market every week.	রিনা প্রতি সপ্তাহে বাজারে যায়।
+train	The experimental model is trained for text classification.	পরীক্ষামূলক মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	The student opened the window this morning.	শিক্ষার্থী আজ সকালে জানালাটি খুলেছে।
+train	The programmer uses the computer to analyze data.	প্রোগ্রামার কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	Rina can solve puzzles very well.	রিনা খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	The student studies physics after class.	শিক্ষার্থী পদার্থবিজ্ঞান ক্লাসের পরে পড়ে।
+train	The pharmacy is park the beside.	ওষুধের দোকানটি পার্কটির পাশে।
+train	The pharmacy is post office the south of.	ওষুধের দোকানটি ডাকঘরটির দক্ষিণে।
+train	The technician uses the computer to test the software.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	The student visited the museum yesterday.	শিক্ষার্থী গতকাল জাদুঘরটি ঘুরে দেখেছে।
+train	If it rains, we will carry an umbrella.	যদি বৃষ্টি হয়, আমরা ছাতা সঙ্গে নেব।
+train	The experimental model is trained for Bangla-to-English translation.	পরীক্ষামূলক মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	Where can I buy a cup of tea in the shopping mall?	আমি শপিং মলে এক কাপ চা কোথায় কিনতে পারি?
+train	Where can I buy fresh vegetables in the city center?	আমি শহরের কেন্দ্রে তাজা সবজি কোথায় কিনতে পারি?
+train	There is a store in the telephone.	দোকানে একটি টেলিফোন আছে।
+train	the student goes to the hospital every week.	শিক্ষার্থী প্রতি সপ্তাহে হাসপাতালে যায়।
+train	There is a living room in the computer.	বসার ঘরে একটি কম্পিউটার আছে।
+train	The kite is orange.	ঘুড়িটি কমলা রঙের।
+train	The small Transformer is trained for intent detection.	ছোট ট্রান্সফরমারটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The nurse explained regular exercise to the patient.	নার্স রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	the teacher reads a history book every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	The traveler goes to the airport by rickshaw.	ভ্রমণকারী বিমানবন্দরে রিকশায় যায়।
+train	There is a store in the table.	দোকানে একটি টেবিল আছে।
+train	The neural network is trained for question answering.	নিউরাল নেটওয়ার্কটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The dentist explained dental care to the patient.	দন্তচিকিৎসক রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	Karim likes vegetables.	করিম সবজি পছন্দ করে।
+train	We measured parameter count for the training set.	আমরা প্রশিক্ষণ সেটের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	The shopkeeper packed seven notebooks.	দোকানদার সাতটি খাতা প্যাক করেছে।
+train	The pharmacy is library the behind.	ওষুধের দোকানটি গ্রন্থাগারটির পেছনে।
+train	The analyst uses the computer to test the software.	বিশ্লেষক কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	The student opened the window last night.	শিক্ষার্থী গত রাতে জানালাটি খুলেছে।
+train	The student uses the computer to read an article.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	The experimental model is trained for intent detection.	পরীক্ষামূলক মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	If it stops raining, we will visit the market.	যদি বৃষ্টি থেমে যায়, আমরা বাজারে যাব।
+train	Rina reads a magazine every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	Please check the document after lunch.	দয়া করে দুপুরের খাবারের পরে নথিটি পরীক্ষা করুন।
+train	Where can I buy a bottle of water in the market?	আমি বাজারে এক বোতল পানি কোথায় কিনতে পারি?
+train	There is a laboratory in the lamp.	গবেষণাগারে একটি বাতি আছে।
+train	The kite is yellow.	ঘুড়িটি হলুদ।
+train	Mina likes tea.	মিনা চা পছন্দ করে।
+train	the student can organize events very well.	শিক্ষার্থী খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	My friend will call the manager before noon.	আমার বন্ধু দুপুরের আগে ব্যবস্থাপককে ফোন করবে।
+train	We measured generation quality for the test set.	আমরা টেস্ট সেটের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	The translation model is trained for headline generation.	অনুবাদ মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	If it becomes cooler, we will visit the market.	যদি আবহাওয়া ঠান্ডা হয়, আমরা বাজারে যাব।
+train	Where can I buy a bus pass in this village?	আমি এই গ্রামে একটি বাস পাস কোথায় কিনতে পারি?
+train	my sister can organize events very well.	আমার বোন খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	Mina likes bread.	মিনা রুটি পছন্দ করে।
+train	Where can I buy a cup of tea in this neighborhood?	আমি এই এলাকায় এক কাপ চা কোথায় কিনতে পারি?
+train	The engineer uses the computer to solve a problem.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	The umbrella is black.	ছাতাটি কালো।
+train	my brother goes to the library every week.	আমার ভাই প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	There is a bedroom in the cabinet.	শোবার ঘরে একটি আলমারি আছে।
+train	Where can I buy a bus pass in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি বাস পাস কোথায় কিনতে পারি?
+train	The traveler goes to the city by rickshaw.	ভ্রমণকারী শহরে রিকশায় যায়।
+train	If it is cold, we will play outside.	যদি ঠান্ডা থাকে, আমরা বাইরে খেলব।
+train	The traveler goes to the city by train.	ভ্রমণকারী শহরে ট্রেনে যায়।
+train	the teacher reads a newspaper every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	If it is sunny, we will go to the park.	যদি রোদ থাকে, আমরা পার্কে যাব।
+train	There is a library in the computer.	গ্রন্থাগারে একটি কম্পিউটার আছে।
+train	Please check the document carefully.	দয়া করে সাবধানে নথিটি পরীক্ষা করুন।
+train	The shopkeeper packed nine notebooks.	দোকানদার নয়টি খাতা প্যাক করেছে।
+train	Rina goes to the hospital every week.	রিনা প্রতি সপ্তাহে হাসপাতালে যায়।
+train	the doctor reads an article every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	We measured generation quality for the small model.	আমরা ছোট মডেলের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	The student uses the computer to train a model.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	Rahim likes fish.	রহিম মাছ পছন্দ করে।
+train	The student planted a tree last week.	শিক্ষার্থী গত সপ্তাহে একটি গাছ লাগিয়েছে।
+train	We measured perplexity for the first experiment.	আমরা প্রথম পরীক্ষার পারপ্লেক্সিটি পরিমাপ করেছি।
+train	We measured training loss for the baseline model.	আমরা বেসলাইন মডেলের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	The door is orange.	দরজাটি কমলা রঙের।
+train	The pharmacy is mosque the to the right of.	ওষুধের দোকানটি মসজিদটির ডান পাশে।
+train	during the weekend, the family cleans the house.	সাপ্তাহিক ছুটিতে পরিবারটি বাড়ি পরিষ্কার করে।
+train	The pharmacy is restaurant the south of.	ওষুধের দোকানটি রেস্তোরাঁটির দক্ষিণে।
+train	If it rains, we will play outside.	যদি বৃষ্টি হয়, আমরা বাইরে খেলব।
+train	The student studies history in the morning.	শিক্ষার্থী ইতিহাস সকালে পড়ে।
+train	There is a laboratory in the clock.	গবেষণাগারে একটি ঘড়ি আছে।
+train	The shopkeeper packed six boxes.	দোকানদার ছয়টি বাক্স প্যাক করেছে।
+train	We measured training loss for the validation set.	আমরা ভ্যালিডেশন সেটের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	The experimental model is trained for text summarization.	পরীক্ষামূলক মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	The counselor explained safe medicine use to the patient.	পরামর্শদাতা রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	Rina goes to the village every week.	রিনা প্রতি সপ্তাহে গ্রামে যায়।
+train	the teacher goes to the station every week.	শিক্ষক প্রতি সপ্তাহে স্টেশনে যায়।
+train	My friend will review the lesson during the holiday.	আমার বন্ধু ছুটির সময় পাঠটি পুনরায় দেখবে।
+train	Rina can use a computer very well.	রিনা খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The nutritionist explained hand hygiene to the patient.	পুষ্টিবিদ রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The analyst uses the computer to write code.	বিশ্লেষক কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	after class, the family plays indoor games.	ক্লাসের পরে পরিবারটি ঘরের ভেতর খেলা করে।
+train	If it rains, we will travel carefully.	যদি বৃষ্টি হয়, আমরা সাবধানে ভ্রমণ করব।
+train	Mina reads an article every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	The bicycle is blue.	সাইকেলটি নীল।
+train	The student studies economics before class.	শিক্ষার্থী অর্থনীতি ক্লাসের আগে পড়ে।
+train	The pharmacy is post office the in front of.	ওষুধের দোকানটি ডাকঘরটির সামনে।
+train	before dinner, the family watches a movie.	রাতের খাবারের আগে পরিবারটি একটি সিনেমা দেখে।
+train	The programmer uses the computer to design a website.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	my brother can draw pictures very well.	আমার ভাই খুব ভালোভাবে ছবি আঁকতে পারে।
+train	Where can I buy a cup of tea in the hospital area?	আমি হাসপাতাল এলাকায় এক কাপ চা কোথায় কিনতে পারি?
+train	The shopkeeper packed nine oranges.	দোকানদার নয়টি কমলা প্যাক করেছে।
+train	The pharmacy is post office the north of.	ওষুধের দোকানটি ডাকঘরটির উত্তরে।
+train	Where can I buy a bus pass in the bus terminal?	আমি বাস টার্মিনালে একটি বাস পাস কোথায় কিনতে পারি?
+train	Please read the instructions now.	দয়া করে এখন নির্দেশনাগুলো পড়ুন।
+train	The nurse explained drinking water to the patient.	নার্স রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	Mina likes soup.	মিনা স্যুপ পছন্দ করে।
+train	The door is blue.	দরজাটি নীল।
+train	The pharmacy is school the south of.	ওষুধের দোকানটি স্কুলটির দক্ষিণে।
+train	The teacher uses the computer to read an article.	শিক্ষক কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	every morning, the family cleans the house.	প্রতিদিন সকালে পরিবারটি বাড়ি পরিষ্কার করে।
+train	We measured generation quality for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	There is a waiting room in the table.	অপেক্ষাকক্ষে একটি টেবিল আছে।
+train	The multilingual model is trained for intent detection.	বহুভাষিক মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	We measured BLEU score for the first experiment.	আমরা প্রথম পরীক্ষার ব্লু স্কোর পরিমাপ করেছি।
+train	Rina reads a newspaper every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	the teacher likes bananas.	শিক্ষক কলা পছন্দ করে।
+train	my sister goes to the museum every week.	আমার বোন প্রতি সপ্তাহে জাদুঘরে যায়।
+train	The counselor explained dental care to the patient.	পরামর্শদাতা রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is bank the south of.	ওষুধের দোকানটি ব্যাংকটির দক্ষিণে।
+train	There is a living room in the chair.	বসার ঘরে একটি চেয়ার আছে।
+train	Please open the door carefully.	দয়া করে সাবধানে দরজাটি খুলুন।
+train	If it is foggy, we will stay at home.	যদি কুয়াশা থাকে, আমরা বাড়িতে থাকব।
+train	my brother reads a history book every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	my brother likes tea.	আমার ভাই চা পছন্দ করে।
+train	We measured memory usage for the translation system.	আমরা অনুবাদ ব্যবস্থার মেমরি ব্যবহার পরিমাপ করেছি।
+train	The student studies physics at night.	শিক্ষার্থী পদার্থবিজ্ঞান রাতে পড়ে।
+train	There is a classroom in the fan.	শ্রেণিকক্ষে একটি পাখা আছে।
+train	The traveler goes to the city by motorcycle.	ভ্রমণকারী শহরে মোটরসাইকেলে যায়।
+train	Please open the door as soon as possible.	দয়া করে যত দ্রুত সম্ভব দরজাটি খুলুন।
+train	The baseline model is trained for sentiment analysis.	বেসলাইন মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	The pharmacy is restaurant the within walking distance of.	ওষুধের দোকানটি রেস্তোরাঁটির হাঁটা দূরত্বের মধ্যে।
+train	We measured BLEU score for the test set.	আমরা টেস্ট সেটের ব্লু স্কোর পরিমাপ করেছি।
+train	The student planted a tree yesterday.	শিক্ষার্থী গতকাল একটি গাছ লাগিয়েছে।
+train	The compact model is trained for intent detection.	কমপ্যাক্ট মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The programmer uses the computer to create a report.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	There is a library in the fan.	গ্রন্থাগারে একটি পাখা আছে।
+train	The scientist uses the computer to design a website.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The traveler goes to the city by bicycle.	ভ্রমণকারী শহরে সাইকেলে যায়।
+train	We measured parameter count for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	Rina goes to the park every week.	রিনা প্রতি সপ্তাহে পার্কে যায়।
+train	Where can I buy a mobile charger in this neighborhood?	আমি এই এলাকায় একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	Please wait for the teacher when you are ready.	দয়া করে আপনি প্রস্তুত হলে শিক্ষকের জন্য অপেক্ষা করুন।
+train	We measured inference time for the small model.	আমরা ছোট মডেলের ইনফারেন্স সময় পরিমাপ করেছি।
+train	My friend will review the lesson this evening.	আমার বন্ধু আজ সন্ধ্যায় পাঠটি পুনরায় দেখবে।
+train	the farmer goes to the university every week.	কৃষক প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The experimental model is trained for sentiment analysis.	পরীক্ষামূলক মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	We measured parameter count for the second experiment.	আমরা দ্বিতীয় পরীক্ষার প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	If it is cloudy, we will stay at home.	যদি আকাশ মেঘলা থাকে, আমরা বাড়িতে থাকব।
+train	Where can I buy a new shirt in the market?	আমি বাজারে একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	the farmer likes bananas.	কৃষক কলা পছন্দ করে।
+train	The shopkeeper packed six notebooks.	দোকানদার ছয়টি খাতা প্যাক করেছে।
+train	The attention model is trained for English-to-Bangla translation.	অ্যাটেনশন মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	The door is brown.	দরজাটি বাদামি।
+train	The shopkeeper packed three notebooks.	দোকানদার তিনটি খাতা প্যাক করেছে।
+train	Rina reads a poem every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	the farmer reads a history book every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	The pharmacy is park the in front of.	ওষুধের দোকানটি পার্কটির সামনে।
+train	The shopkeeper packed three books.	দোকানদার তিনটি বই প্যাক করেছে।
+train	The neural network is trained for language identification.	নিউরাল নেটওয়ার্কটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	My friend will attend the meeting after breakfast.	আমার বন্ধু সকালের নাশতার পরে সভায় অংশ নেবে।
+train	Rahim goes to the village every week.	রহিম প্রতি সপ্তাহে গ্রামে যায়।
+train	the doctor reads a newspaper every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	every morning, the family plays indoor games.	প্রতিদিন সকালে পরিবারটি ঘরের ভেতর খেলা করে।
+train	The shopkeeper packed eight oranges.	দোকানদার আটটি কমলা প্যাক করেছে।
+train	Mina goes to the library every week.	মিনা প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	If it is cold, we will wear warm clothes.	যদি ঠান্ডা থাকে, আমরা গরম কাপড় পরব।
+train	The multilingual model is trained for text summarization.	বহুভাষিক মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	The student studies English on Friday.	শিক্ষার্থী ইংরেজি শুক্রবার পড়ে।
+train	Rahim can ride a bicycle very well.	রহিম খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	If it is hot, we will close the windows.	যদি গরম থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	The student prepared breakfast before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে সকালের নাশতা তৈরি করেছে।
+train	If it is foggy, we will close the windows.	যদি কুয়াশা থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	If it is windy, we will travel carefully.	যদি বাতাস থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	The designer uses the computer to write code.	ডিজাইনার কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	We measured BLEU score for the new model.	আমরা নতুন মডেলের ব্লু স্কোর পরিমাপ করেছি।
+train	The pharmacy is station the behind.	ওষুধের দোকানটি স্টেশনটির পেছনে।
+train	The traveler goes to Dhaka by airplane.	ভ্রমণকারী ঢাকায় বিমানে যায়।
+train	The researcher uses the computer to design a website.	গবেষক কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The dentist explained stress management to the patient.	দন্তচিকিৎসক রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	The flower is orange.	ফুলটি কমলা রঙের।
+train	The language model is trained for headline generation.	ভাষা মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	The pharmacy is station the within walking distance of.	ওষুধের দোকানটি স্টেশনটির হাঁটা দূরত্বের মধ্যে।
+train	The student uses the computer to test the software.	শিক্ষার্থী কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	If it is cold, we will go to the park.	যদি ঠান্ডা থাকে, আমরা পার্কে যাব।
+train	The pharmacy is library the within walking distance of.	ওষুধের দোকানটি গ্রন্থাগারটির হাঁটা দূরত্বের মধ্যে।
+train	my sister goes to the office every week.	আমার বোন প্রতি সপ্তাহে অফিসে যায়।
+train	If it is windy, we will visit the market.	যদি বাতাস থাকে, আমরা বাজারে যাব।
+train	The student studies history during the weekend.	শিক্ষার্থী ইতিহাস সাপ্তাহিক ছুটিতে পড়ে।
+train	The shopkeeper packed ten apples.	দোকানদার দশটি আপেল প্যাক করেছে।
+train	There is a laboratory in the table.	গবেষণাগারে একটি টেবিল আছে।
+train	We measured validation loss for the new model.	আমরা নতুন মডেলের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	Rahim goes to the university every week.	রহিম প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The shopkeeper packed nine pens.	দোকানদার নয়টি কলম প্যাক করেছে।
+train	The student prepared breakfast yesterday.	শিক্ষার্থী গতকাল সকালের নাশতা তৈরি করেছে।
+train	after class, the family cooks together.	ক্লাসের পরে পরিবারটি একসঙ্গে রান্না করে।
+train	We measured validation loss for the small model.	আমরা ছোট মডেলের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	The shopkeeper packed six apples.	দোকানদার ছয়টি আপেল প্যাক করেছে।
+train	The teacher uses the computer to train a model.	শিক্ষক কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	Rina reads a report every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The multilingual model is trained for question answering.	বহুভাষিক মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The student studies Bangla on Wednesday.	শিক্ষার্থী বাংলা বুধবার পড়ে।
+train	my friend can use a computer very well.	আমার বন্ধু খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	the teacher reads an article every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	The shopkeeper packed ten packages.	দোকানদার দশটি প্যাকেট প্যাক করেছে।
+train	The shopkeeper packed four oranges.	দোকানদার চারটি কমলা প্যাক করেছে।
+train	The book is brown.	বইটি বাদামি।
+train	The shopkeeper packed three oranges.	দোকানদার তিনটি কমলা প্যাক করেছে।
+train	the doctor goes to school every week.	ডাক্তার প্রতি সপ্তাহে স্কুলে যায়।
+train	The therapist explained first aid to the patient.	থেরাপিস্ট রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is park the near.	ওষুধের দোকানটি পার্কটির কাছে।
+train	the doctor likes bananas.	ডাক্তার কলা পছন্দ করে।
+train	The cup is brown.	কাপটি বাদামি।
+train	The pharmacy is hospital the near.	ওষুধের দোকানটি হাসপাতালটির কাছে।
+train	The pharmacist explained drinking water to the patient.	ফার্মাসিস্ট রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please check the document before class.	দয়া করে ক্লাসের আগে নথিটি পরীক্ষা করুন।
+train	the student reads a novel every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	My friend will call the manager at ten o'clock.	আমার বন্ধু দশটায় ব্যবস্থাপককে ফোন করবে।
+train	on Monday, the family walks in the park.	সোমবার পরিবারটি পার্কে হাঁটে।
+train	The traveler goes to the countryside by bicycle.	ভ্রমণকারী গ্রামাঞ্চলে সাইকেলে যায়।
+train	The pharmacy is restaurant the near.	ওষুধের দোকানটি রেস্তোরাঁটির কাছে।
+train	The traveler goes to Dhaka by bus.	ভ্রমণকারী ঢাকায় বাসে যায়।
+train	the student goes to the museum every week.	শিক্ষার্থী প্রতি সপ্তাহে জাদুঘরে যায়।
+train	Please wait for the teacher without delay.	দয়া করে বিলম্ব না করে শিক্ষকের জন্য অপেক্ষা করুন।
+train	the teacher goes to the museum every week.	শিক্ষক প্রতি সপ্তাহে জাদুঘরে যায়।
+train	We measured training loss for the test set.	আমরা টেস্ট সেটের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	The traveler goes to Dhaka by rickshaw.	ভ্রমণকারী ঢাকায় রিকশায় যায়।
+train	If it is cloudy, we will close the windows.	যদি আকাশ মেঘলা থাকে, আমরা জানালাগুলো বন্ধ করব।
+train	my sister likes rice.	আমার বোন ভাত পছন্দ করে।
+train	on Friday, the family cleans the house.	শুক্রবার পরিবারটি বাড়ি পরিষ্কার করে।
+train	Please close the window as soon as possible.	দয়া করে যত দ্রুত সম্ভব জানালাটি বন্ধ করুন।
+train	The student opened the window last week.	শিক্ষার্থী গত সপ্তাহে জানালাটি খুলেছে।
+train	The shopkeeper packed five boxes.	দোকানদার পাঁচটি বাক্স প্যাক করেছে।
+train	Rahim likes rice.	রহিম ভাত পছন্দ করে।
+train	on Monday, the family cleans the house.	সোমবার পরিবারটি বাড়ি পরিষ্কার করে।
+train	the farmer goes to the library every week.	কৃষক প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	Rina reads a science book every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	The multilingual model is trained for sentiment analysis.	বহুভাষিক মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	There is a bedroom in the table.	শোবার ঘরে একটি টেবিল আছে।
+train	We measured inference time for the test set.	আমরা টেস্ট সেটের ইনফারেন্স সময় পরিমাপ করেছি।
+train	the teacher reads a novel every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	my sister goes to school every week.	আমার বোন প্রতি সপ্তাহে স্কুলে যায়।
+train	The shopkeeper packed four pens.	দোকানদার চারটি কলম প্যাক করেছে।
+train	Rina goes to the station every week.	রিনা প্রতি সপ্তাহে স্টেশনে যায়।
+train	The student visited the museum on Monday.	শিক্ষার্থী সোমবার জাদুঘরটি ঘুরে দেখেছে।
+train	The shirt is white.	শার্টটি সাদা।
+train	We measured accuracy for the training set.	আমরা প্রশিক্ষণ সেটের নির্ভুলতা পরিমাপ করেছি।
+train	The shopkeeper packed five notebooks.	দোকানদার পাঁচটি খাতা প্যাক করেছে।
+train	The traveler goes to Cumilla by motorcycle.	ভ্রমণকারী কুমিল্লায় মোটরসাইকেলে যায়।
+train	The compact model is trained for next-token prediction.	কমপ্যাক্ট মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	Please write your name one more time.	দয়া করে আরেকবার আপনার নাম লিখুন।
+train	The student visited the museum before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে জাদুঘরটি ঘুরে দেখেছে।
+train	The traveler goes to Sylhet by rickshaw.	ভ্রমণকারী সিলেটে রিকশায় যায়।
+train	Where can I buy a notebook in the market?	আমি বাজারে একটি খাতা কোথায় কিনতে পারি?
+train	The flower is pink.	ফুলটি গোলাপি।
+train	My friend will buy some groceries this evening.	আমার বন্ধু আজ সন্ধ্যায় কিছু মুদি পণ্য কিনবে।
+train	There is a bedroom in the telephone.	শোবার ঘরে একটি টেলিফোন আছে।
+train	Rina can ride a bicycle very well.	রিনা খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	The traveler goes to Rajshahi by rickshaw.	ভ্রমণকারী রাজশাহীতে রিকশায় যায়।
+train	Where can I buy a dictionary in the city center?	আমি শহরের কেন্দ্রে একটি অভিধান কোথায় কিনতে পারি?
+train	The student opened the window at noon.	শিক্ষার্থী দুপুরে জানালাটি খুলেছে।
+train	my sister goes to the station every week.	আমার বোন প্রতি সপ্তাহে স্টেশনে যায়।
+train	The student checked the results yesterday.	শিক্ষার্থী গতকাল ফলাফলগুলো পরীক্ষা করেছে।
+train	The student cleaned the room before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে ঘরটি পরিষ্কার করেছে।
+train	every afternoon, the family plans the next week.	প্রতিদিন বিকেলে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	the teacher likes chicken.	শিক্ষক মুরগির মাংস পছন্দ করে।
+train	The pharmacy is restaurant the to the left of.	ওষুধের দোকানটি রেস্তোরাঁটির বাম পাশে।
+train	Karim goes to the office every week.	করিম প্রতি সপ্তাহে অফিসে যায়।
+train	The analyst uses the computer to solve a problem.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	The encoder-decoder model is trained for sentiment analysis.	এনকোডার-ডিকোডার মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	There is a store in the window.	দোকানে একটি জানালা আছে।
+train	on Friday, the family cooks together.	শুক্রবার পরিবারটি একসঙ্গে রান্না করে।
+train	The student cleaned the room at noon.	শিক্ষার্থী দুপুরে ঘরটি পরিষ্কার করেছে।
+train	The traveler goes to Sylhet by airplane.	ভ্রমণকারী সিলেটে বিমানে যায়।
+train	The shopkeeper packed one oranges.	দোকানদার একটি কমলা প্যাক করেছে।
+train	The bicycle is brown.	সাইকেলটি বাদামি।
+train	Mina likes coffee.	মিনা কফি পছন্দ করে।
+train	The nurse explained dental care to the patient.	নার্স রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The baseline model is trained for next-token prediction.	বেসলাইন মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	The umbrella is blue.	ছাতাটি নীল।
+train	The pharmacy is school the within walking distance of.	ওষুধের দোকানটি স্কুলটির হাঁটা দূরত্বের মধ্যে।
+train	The shopkeeper packed eight packages.	দোকানদার আটটি প্যাকেট প্যাক করেছে।
+train	Where can I buy a mobile charger in the market?	আমি বাজারে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	The traveler goes to the river port by bus.	ভ্রমণকারী নদীবন্দরে বাসে যায়।
+train	The designer uses the computer to create a report.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	The small Transformer is trained for text summarization.	ছোট ট্রান্সফরমারটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	There is a waiting room in the computer.	অপেক্ষাকক্ষে একটি কম্পিউটার আছে।
+train	My friend will attend the meeting next week.	আমার বন্ধু আগামী সপ্তাহে সভায় অংশ নেবে।
+train	the teacher goes to the park every week.	শিক্ষক প্রতি সপ্তাহে পার্কে যায়।
+train	every evening, the family cooks together.	প্রতিদিন সন্ধ্যায় পরিবারটি একসঙ্গে রান্না করে।
+train	There is a hall in the lamp.	হলে একটি বাতি আছে।
+train	The pharmacy is hospital the beside.	ওষুধের দোকানটি হাসপাতালটির পাশে।
+train	My friend will review the lesson at ten o'clock.	আমার বন্ধু দশটায় পাঠটি পুনরায় দেখবে।
+train	My friend will call the manager this evening.	আমার বন্ধু আজ সন্ধ্যায় ব্যবস্থাপককে ফোন করবে।
+train	The pharmacy is mosque the north of.	ওষুধের দোকানটি মসজিদটির উত্তরে।
+train	Where can I buy a dictionary in this neighborhood?	আমি এই এলাকায় একটি অভিধান কোথায় কিনতে পারি?
+train	my sister can use a computer very well.	আমার বোন খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The traveler goes to Cumilla by airplane.	ভ্রমণকারী কুমিল্লায় বিমানে যায়।
+train	Please read the instructions as soon as possible.	দয়া করে যত দ্রুত সম্ভব নির্দেশনাগুলো পড়ুন।
+train	The traveler goes to the countryside by rickshaw.	ভ্রমণকারী গ্রামাঞ্চলে রিকশায় যায়।
+train	We measured BLEU score for the translation system.	আমরা অনুবাদ ব্যবস্থার ব্লু স্কোর পরিমাপ করেছি।
+train	My friend will visit the library next Monday.	আমার বন্ধু আগামী সোমবার গ্রন্থাগারে যাবে।
+train	The teacher uses the computer to prepare a presentation.	শিক্ষক কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	the student can cook rice very well.	শিক্ষার্থী খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The traveler goes to Khulna by bicycle.	ভ্রমণকারী খুলনায় সাইকেলে যায়।
+train	during the holiday, the family plays indoor games.	ছুটির সময় পরিবারটি ঘরের ভেতর খেলা করে।
+train	The student studies history in the afternoon.	শিক্ষার্থী ইতিহাস বিকেলে পড়ে।
+train	We measured generation quality for the first experiment.	আমরা প্রথম পরীক্ষার উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	The pharmacy is bank the near.	ওষুধের দোকানটি ব্যাংকটির কাছে।
+train	My friend will meet the teacher this evening.	আমার বন্ধু আজ সন্ধ্যায় শিক্ষকের সঙ্গে দেখা করবে।
+train	The shopkeeper packed eight bottles.	দোকানদার আটটি বোতল প্যাক করেছে।
+train	The student studies Bangla at night.	শিক্ষার্থী বাংলা রাতে পড়ে।
+train	The health worker explained first aid to the patient.	স্বাস্থ্যকর্মী রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is park the to the right of.	ওষুধের দোকানটি পার্কটির ডান পাশে।
+train	If it is foggy, we will travel carefully.	যদি কুয়াশা থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	the doctor reads a textbook every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	Rahim goes to the library every week.	রহিম প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	The scientist uses the computer to store information.	বিজ্ঞানী কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	The student studies physics during the weekend.	শিক্ষার্থী পদার্থবিজ্ঞান সাপ্তাহিক ছুটিতে পড়ে।
+train	The pharmacy is school the north of.	ওষুধের দোকানটি স্কুলটির উত্তরে।
+train	The traveler goes to Rajshahi by metro.	ভ্রমণকারী রাজশাহীতে মেট্রোতে যায়।
+train	every evening, the family cleans the house.	প্রতিদিন সন্ধ্যায় পরিবারটি বাড়ি পরিষ্কার করে।
+train	The programmer uses the computer to prepare a presentation.	প্রোগ্রামার কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The doctor explained first aid to the patient.	ডাক্তার রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	the doctor reads a science book every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	my sister goes to the market every week.	আমার বোন প্রতি সপ্তাহে বাজারে যায়।
+train	Where can I buy a cup of tea in this village?	আমি এই গ্রামে এক কাপ চা কোথায় কিনতে পারি?
+train	If it is cloudy, we will visit the market.	যদি আকাশ মেঘলা থাকে, আমরা বাজারে যাব।
+train	The student studies chemistry in the morning.	শিক্ষার্থী রসায়ন সকালে পড়ে।
+train	Where can I buy a bottle of water in the airport?	আমি বিমানবন্দরে এক বোতল পানি কোথায় কিনতে পারি?
+train	the farmer likes bread.	কৃষক রুটি পছন্দ করে।
+train	The pharmacy is mosque the to the left of.	ওষুধের দোকানটি মসজিদটির বাম পাশে।
+train	Where can I buy a bus pass in the market?	আমি বাজারে একটি বাস পাস কোথায় কিনতে পারি?
+train	My friend will finish the project this evening.	আমার বন্ধু আজ সন্ধ্যায় প্রকল্পটি শেষ করবে।
+train	during the weekend, the family eats dinner together.	সাপ্তাহিক ছুটিতে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	the teacher reads a textbook every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	before dinner, the family visits the grandparents.	রাতের খাবারের আগে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	The book is orange.	বইটি কমলা রঙের।
+train	The pharmacy is station the opposite.	ওষুধের দোকানটি স্টেশনটির বিপরীতে।
+train	my sister reads a textbook every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	There is a classroom in the computer.	শ্রেণিকক্ষে একটি কম্পিউটার আছে।
+train	Please open the door this morning.	দয়া করে আজ সকালে দরজাটি খুলুন।
+train	the farmer reads a magazine every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	There is a office in the clock.	অফিসে একটি ঘড়ি আছে।
+train	The door is green.	দরজাটি সবুজ।
+train	the student likes chicken.	শিক্ষার্থী মুরগির মাংস পছন্দ করে।
+train	The pharmacy is park the opposite.	ওষুধের দোকানটি পার্কটির বিপরীতে।
+train	The pharmacy is post office the to the left of.	ওষুধের দোকানটি ডাকঘরটির বাম পাশে।
+train	Karim can play football very well.	করিম খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	Where can I buy a dictionary in this village?	আমি এই গ্রামে একটি অভিধান কোথায় কিনতে পারি?
+train	Mina can write clearly very well.	মিনা খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	My friend will travel to the city tomorrow.	আমার বন্ধু আগামীকাল শহরে যাবে।
+train	The pharmacy is bank the to the right of.	ওষুধের দোকানটি ব্যাংকটির ডান পাশে।
+train	the farmer goes to the office every week.	কৃষক প্রতি সপ্তাহে অফিসে যায়।
+train	every afternoon, the family eats dinner together.	প্রতিদিন বিকেলে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	Please save the file without delay.	দয়া করে বিলম্ব না করে ফাইলটি সংরক্ষণ করুন।
+train	If it is sunny, we will wear warm clothes.	যদি রোদ থাকে, আমরা গরম কাপড় পরব।
+train	The student studies geography before class.	শিক্ষার্থী ভূগোল ক্লাসের আগে পড়ে।
+train	The encoder-decoder model is trained for language identification.	এনকোডার-ডিকোডার মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	my brother likes vegetables.	আমার ভাই সবজি পছন্দ করে।
+train	My friend will travel to the city this afternoon.	আমার বন্ধু আজ বিকেলে শহরে যাবে।
+train	Where can I buy a cup of tea in the city center?	আমি শহরের কেন্দ্রে এক কাপ চা কোথায় কিনতে পারি?
+train	My friend will finish the project at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে প্রকল্পটি শেষ করবে।
+train	The shopkeeper packed three apples.	দোকানদার তিনটি আপেল প্যাক করেছে।
+train	The shopkeeper packed five bottles.	দোকানদার পাঁচটি বোতল প্যাক করেছে।
+train	Mina goes to the university every week.	মিনা প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	Rina can write clearly very well.	রিনা খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	during the holiday, the family shares stories.	ছুটির সময় পরিবারটি গল্প ভাগাভাগি করে।
+train	There is a kitchen in the window.	রান্নাঘরে একটি জানালা আছে।
+train	The student repaired the bicycle this morning.	শিক্ষার্থী আজ সকালে সাইকেলটি মেরামত করেছে।
+train	the farmer reads a short story every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	Rina likes bananas.	রিনা কলা পছন্দ করে।
+train	If it is sunny, we will stay at home.	যদি রোদ থাকে, আমরা বাড়িতে থাকব।
+train	My friend will visit the library this evening.	আমার বন্ধু আজ সন্ধ্যায় গ্রন্থাগারে যাবে।
+train	The umbrella is brown.	ছাতাটি বাদামি।
+train	My friend will meet the teacher before noon.	আমার বন্ধু দুপুরের আগে শিক্ষকের সঙ্গে দেখা করবে।
+train	my friend can write clearly very well.	আমার বন্ধু খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	The student answered the question yesterday.	শিক্ষার্থী গতকাল প্রশ্নটির উত্তর দিয়েছে।
+train	The pharmacy is school the to the left of.	ওষুধের দোকানটি স্কুলটির বাম পাশে।
+train	My friend will visit the library at ten o'clock.	আমার বন্ধু দশটায় গ্রন্থাগারে যাবে।
+train	The health worker explained healthy eating to the patient.	স্বাস্থ্যকর্মী রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	The bicycle is red.	সাইকেলটি লাল।
+train	The traveler goes to the city by bus.	ভ্রমণকারী শহরে বাসে যায়।
+train	Where can I buy a notebook in the bus terminal?	আমি বাস টার্মিনালে একটি খাতা কোথায় কিনতে পারি?
+train	the farmer likes vegetables.	কৃষক সবজি পছন্দ করে।
+train	The student answered the question last week.	শিক্ষার্থী গত সপ্তাহে প্রশ্নটির উত্তর দিয়েছে।
+train	My friend will prepare the documents tomorrow.	আমার বন্ধু আগামীকাল কাগজপত্র প্রস্তুত করবে।
+train	If it becomes cooler, we will travel carefully.	যদি আবহাওয়া ঠান্ডা হয়, আমরা সাবধানে ভ্রমণ করব।
+train	The student studies history after class.	শিক্ষার্থী ইতিহাস ক্লাসের পরে পড়ে।
+train	The small Transformer is trained for English-to-Bangla translation.	ছোট ট্রান্সফরমারটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	The shopkeeper packed eight apples.	দোকানদার আটটি আপেল প্যাক করেছে।
+train	If it stops raining, we will carry an umbrella.	যদি বৃষ্টি থেমে যায়, আমরা ছাতা সঙ্গে নেব।
+train	The student checked the results before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে ফলাফলগুলো পরীক্ষা করেছে।
+train	The student studies chemistry on Monday.	শিক্ষার্থী রসায়ন সোমবার পড়ে।
+train	The scientist uses the computer to test the software.	বিজ্ঞানী কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	every afternoon, the family visits the grandparents.	প্রতিদিন বিকেলে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	There is a hall in the chair.	হলে একটি চেয়ার আছে।
+train	If it is foggy, we will go to the park.	যদি কুয়াশা থাকে, আমরা পার্কে যাব।
+train	The traveler goes to Sylhet by train.	ভ্রমণকারী সিলেটে ট্রেনে যায়।
+train	The pharmacy is post office the to the right of.	ওষুধের দোকানটি ডাকঘরটির ডান পাশে।
+train	Mina can solve puzzles very well.	মিনা খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	Where can I buy a train ticket in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	If it stops raining, we will wear warm clothes.	যদি বৃষ্টি থেমে যায়, আমরা গরম কাপড় পরব।
+train	Rina goes to the museum every week.	রিনা প্রতি সপ্তাহে জাদুঘরে যায়।
+train	We measured generation quality for the training set.	আমরা প্রশিক্ষণ সেটের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+train	We measured training loss for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	The therapist explained safe medicine use to the patient.	থেরাপিস্ট রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	every afternoon, the family cooks together.	প্রতিদিন বিকেলে পরিবারটি একসঙ্গে রান্না করে।
+train	Please check the document this morning.	দয়া করে আজ সকালে নথিটি পরীক্ষা করুন।
+train	The counselor explained first aid to the patient.	পরামর্শদাতা রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it becomes cooler, we will drink more water.	যদি আবহাওয়া ঠান্ডা হয়, আমরা আরও পানি পান করব।
+train	There is a kitchen in the table.	রান্নাঘরে একটি টেবিল আছে।
+train	every evening, the family walks in the park.	প্রতিদিন সন্ধ্যায় পরিবারটি পার্কে হাঁটে।
+train	Karim can draw pictures very well.	করিম খুব ভালোভাবে ছবি আঁকতে পারে।
+train	Where can I buy a cup of tea in the bus terminal?	আমি বাস টার্মিনালে এক কাপ চা কোথায় কিনতে পারি?
+train	The pharmacy is station the to the left of.	ওষুধের দোকানটি স্টেশনটির বাম পাশে।
+train	Rahim likes chicken.	রহিম মুরগির মাংস পছন্দ করে।
+train	The language model is trained for sentiment analysis.	ভাষা মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	The traveler goes to Cumilla by metro.	ভ্রমণকারী কুমিল্লায় মেট্রোতে যায়।
+train	The traveler goes to Rajshahi by train.	ভ্রমণকারী রাজশাহীতে ট্রেনে যায়।
+train	Where can I buy some medicine in the shopping mall?	আমি শপিং মলে কিছু ওষুধ কোথায় কিনতে পারি?
+train	My friend will join the class at ten o'clock.	আমার বন্ধু দশটায় ক্লাসে যোগ দেবে।
+train	The therapist explained routine checkups to the patient.	থেরাপিস্ট রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The counselor explained regular exercise to the patient.	পরামর্শদাতা রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student studies mathematics at night.	শিক্ষার্থী গণিত রাতে পড়ে।
+train	my sister can play football very well.	আমার বোন খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	The shopkeeper packed six books.	দোকানদার ছয়টি বই প্যাক করেছে।
+train	The encoder-decoder model is trained for question answering.	এনকোডার-ডিকোডার মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The student studies Bangla during the weekend.	শিক্ষার্থী বাংলা সাপ্তাহিক ছুটিতে পড়ে।
+train	the doctor likes bread.	ডাক্তার রুটি পছন্দ করে।
+train	the doctor reads a short story every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	If it remains clear, we will go to the park.	যদি আকাশ পরিষ্কার থাকে, আমরা পার্কে যাব।
+train	on Friday, the family watches a movie.	শুক্রবার পরিবারটি একটি সিনেমা দেখে।
+train	The shopkeeper packed seven toys.	দোকানদার সাতটি খেলনা প্যাক করেছে।
+train	The student studies biology in the afternoon.	শিক্ষার্থী জীববিজ্ঞান বিকেলে পড়ে।
+train	My friend will buy some groceries at ten o'clock.	আমার বন্ধু দশটায় কিছু মুদি পণ্য কিনবে।
+train	my sister likes coffee.	আমার বোন কফি পছন্দ করে।
+train	There is a living room in the lamp.	বসার ঘরে একটি বাতি আছে।
+train	The language model is trained for English-to-Bangla translation.	ভাষা মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	If it is sunny, we will visit the market.	যদি রোদ থাকে, আমরা বাজারে যাব।
+train	If it remains clear, we will carry an umbrella.	যদি আকাশ পরিষ্কার থাকে, আমরা ছাতা সঙ্গে নেব।
+train	Rina can speak English very well.	রিনা খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	my brother can organize events very well.	আমার ভাই খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	The shirt is green.	শার্টটি সবুজ।
+train	Please write your name before class.	দয়া করে ক্লাসের আগে আপনার নাম লিখুন।
+train	Mina goes to the market every week.	মিনা প্রতি সপ্তাহে বাজারে যায়।
+train	The small Transformer is trained for Bangla-to-English translation.	ছোট ট্রান্সফরমারটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	The student studies English during the weekend.	শিক্ষার্থী ইংরেজি সাপ্তাহিক ছুটিতে পড়ে।
+train	The scientist uses the computer to analyze data.	বিজ্ঞানী কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	The designer uses the computer to store information.	ডিজাইনার কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	The shopkeeper packed ten books.	দোকানদার দশটি বই প্যাক করেছে।
+train	Please save the file one more time.	দয়া করে আরেকবার ফাইলটি সংরক্ষণ করুন।
+train	The pharmacy is post office the within walking distance of.	ওষুধের দোকানটি ডাকঘরটির হাঁটা দূরত্বের মধ্যে।
+train	Mina goes to the station every week.	মিনা প্রতি সপ্তাহে স্টেশনে যায়।
+train	the student reads an article every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	The shopkeeper packed two boxes.	দোকানদার দুটি বাক্স প্যাক করেছে।
+train	Where can I buy a notebook in this neighborhood?	আমি এই এলাকায় একটি খাতা কোথায় কিনতে পারি?
+train	There is a laboratory in the computer.	গবেষণাগারে একটি কম্পিউটার আছে।
+train	on Monday, the family watches a movie.	সোমবার পরিবারটি একটি সিনেমা দেখে।
+train	The nurse explained healthy eating to the patient.	নার্স রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student repaired the bicycle last week.	শিক্ষার্থী গত সপ্তাহে সাইকেলটি মেরামত করেছে।
+train	The shopkeeper packed two pens.	দোকানদার দুটি কলম প্যাক করেছে।
+train	The student completed the assignment at noon.	শিক্ষার্থী দুপুরে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	my brother can cook rice very well.	আমার ভাই খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The neural network is trained for English-to-Bangla translation.	নিউরাল নেটওয়ার্কটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	The compact model is trained for question answering.	কমপ্যাক্ট মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The student studies physics in the evening.	শিক্ষার্থী পদার্থবিজ্ঞান সন্ধ্যায় পড়ে।
+train	my sister reads a magazine every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	The dentist explained drinking water to the patient.	দন্তচিকিৎসক রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	every afternoon, the family watches a movie.	প্রতিদিন বিকেলে পরিবারটি একটি সিনেমা দেখে।
+train	The student visited the museum this morning.	শিক্ষার্থী আজ সকালে জাদুঘরটি ঘুরে দেখেছে।
+train	The traveler goes to Chattogram by train.	ভ্রমণকারী চট্টগ্রামে ট্রেনে যায়।
+train	There is a bedroom in the window.	শোবার ঘরে একটি জানালা আছে।
+train	after class, the family plans the next week.	ক্লাসের পরে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	The student repaired the bicycle in the evening.	শিক্ষার্থী সন্ধ্যায় সাইকেলটি মেরামত করেছে।
+train	The student sent the email yesterday.	শিক্ষার্থী গতকাল ইমেইলটি পাঠিয়েছে।
+train	the farmer reads a poem every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	The therapist explained hand hygiene to the patient.	থেরাপিস্ট রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is post office the behind.	ওষুধের দোকানটি ডাকঘরটির পেছনে।
+train	Please wait for the teacher after lunch.	দয়া করে দুপুরের খাবারের পরে শিক্ষকের জন্য অপেক্ষা করুন।
+train	There is a waiting room in the cabinet.	অপেক্ষাকক্ষে একটি আলমারি আছে।
+train	The shopkeeper packed one packages.	দোকানদার একটি প্যাকেট প্যাক করেছে।
+train	The traveler goes to Chattogram by motorcycle.	ভ্রমণকারী চট্টগ্রামে মোটরসাইকেলে যায়।
+train	The researcher uses the computer to analyze data.	গবেষক কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	my brother likes coffee.	আমার ভাই কফি পছন্দ করে।
+train	We measured parameter count for the small model.	আমরা ছোট মডেলের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	Please save the file this morning.	দয়া করে আজ সকালে ফাইলটি সংরক্ষণ করুন।
+train	If it rains, we will drink more water.	যদি বৃষ্টি হয়, আমরা আরও পানি পান করব।
+train	The analyst uses the computer to store information.	বিশ্লেষক কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	my sister reads a science book every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	The nutritionist explained healthy eating to the patient.	পুষ্টিবিদ রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	the student likes vegetables.	শিক্ষার্থী সবজি পছন্দ করে।
+train	If it stops raining, we will stay at home.	যদি বৃষ্টি থেমে যায়, আমরা বাড়িতে থাকব।
+train	Rina reads a novel every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	Where can I buy fresh vegetables in the airport?	আমি বিমানবন্দরে তাজা সবজি কোথায় কিনতে পারি?
+train	Mina can explain lessons very well.	মিনা খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	The baseline model is trained for English-to-Bangla translation.	বেসলাইন মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	Rahim reads a science book every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	my brother can explain lessons very well.	আমার ভাই খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+train	The student uses the computer to create a report.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	The experimental model is trained for English-to-Bangla translation.	পরীক্ষামূলক মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	The shopkeeper packed one apples.	দোকানদার একটি আপেল প্যাক করেছে।
+train	The shopkeeper packed five books.	দোকানদার পাঁচটি বই প্যাক করেছে।
+train	Where can I buy some medicine in this neighborhood?	আমি এই এলাকায় কিছু ওষুধ কোথায় কিনতে পারি?
+train	The student answered the question during the break.	শিক্ষার্থী বিরতির সময় প্রশ্নটির উত্তর দিয়েছে।
+train	the young athlete can draw pictures very well.	তরুণ খেলোয়াড় খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The compact model is trained for sentiment analysis.	কমপ্যাক্ট মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	Rina reads a textbook every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	There is a bedroom in the clock.	শোবার ঘরে একটি ঘড়ি আছে।
+train	my sister goes to the library every week.	আমার বোন প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	The bag is white.	ব্যাগটি সাদা।
+train	We measured validation loss for the first experiment.	আমরা প্রথম পরীক্ষার ভ্যালিডেশন লস পরিমাপ করেছি।
+train	The student studies Bangla in the morning.	শিক্ষার্থী বাংলা সকালে পড়ে।
+train	after class, the family cleans the house.	ক্লাসের পরে পরিবারটি বাড়ি পরিষ্কার করে।
+train	my brother goes to the station every week.	আমার ভাই প্রতি সপ্তাহে স্টেশনে যায়।
+train	The student studies Bangla on Monday.	শিক্ষার্থী বাংলা সোমবার পড়ে।
+train	The dentist explained proper sleep to the patient.	দন্তচিকিৎসক রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is station the south of.	ওষুধের দোকানটি স্টেশনটির দক্ষিণে।
+train	My friend will travel to the city at ten o'clock.	আমার বন্ধু দশটায় শহরে যাবে।
+train	Rahim goes to the office every week.	রহিম প্রতি সপ্তাহে অফিসে যায়।
+train	The traveler goes to Cumilla by bus.	ভ্রমণকারী কুমিল্লায় বাসে যায়।
+train	the student likes mangoes.	শিক্ষার্থী আম পছন্দ করে।
+train	The traveler goes to Khulna by boat.	ভ্রমণকারী খুলনায় নৌকায় যায়।
+train	during the holiday, the family walks in the park.	ছুটির সময় পরিবারটি পার্কে হাঁটে।
+train	The traveler goes to Cumilla by train.	ভ্রমণকারী কুমিল্লায় ট্রেনে যায়।
+train	my brother likes soup.	আমার ভাই স্যুপ পছন্দ করে।
+train	Where can I buy a bottle of water in this neighborhood?	আমি এই এলাকায় এক বোতল পানি কোথায় কিনতে পারি?
+train	The baseline model is trained for text summarization.	বেসলাইন মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	every evening, the family plays indoor games.	প্রতিদিন সন্ধ্যায় পরিবারটি ঘরের ভেতর খেলা করে।
+train	Rahim reads a history book every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	Mina likes mangoes.	মিনা আম পছন্দ করে।
+train	Please answer the question when you are ready.	দয়া করে আপনি প্রস্তুত হলে প্রশ্নটির উত্তর দিন।
+train	The developer uses the computer to prepare a presentation.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The shopkeeper packed one boxes.	দোকানদার একটি বাক্স প্যাক করেছে।
+train	If it becomes cooler, we will wear warm clothes.	যদি আবহাওয়া ঠান্ডা হয়, আমরা গরম কাপড় পরব।
+train	The pharmacist explained proper sleep to the patient.	ফার্মাসিস্ট রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student repaired the bicycle last night.	শিক্ষার্থী গত রাতে সাইকেলটি মেরামত করেছে।
+train	during the weekend, the family watches a movie.	সাপ্তাহিক ছুটিতে পরিবারটি একটি সিনেমা দেখে।
+train	The designer uses the computer to train a model.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	the teacher reads a science book every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	Please write your name when you are ready.	দয়া করে আপনি প্রস্তুত হলে আপনার নাম লিখুন।
+train	my sister likes bananas.	আমার বোন কলা পছন্দ করে।
+train	If it rains, we will stay at home.	যদি বৃষ্টি হয়, আমরা বাড়িতে থাকব।
+train	Please answer the question carefully.	দয়া করে সাবধানে প্রশ্নটির উত্তর দিন।
+train	The traveler goes to Chattogram by bus.	ভ্রমণকারী চট্টগ্রামে বাসে যায়।
+train	Rahim likes coffee.	রহিম কফি পছন্দ করে।
+train	the student likes fish.	শিক্ষার্থী মাছ পছন্দ করে।
+train	The pharmacy is bank the north of.	ওষুধের দোকানটি ব্যাংকটির উত্তরে।
+train	The student uses the computer to write code.	শিক্ষার্থী কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	Rina likes mangoes.	রিনা আম পছন্দ করে।
+train	Rina reads a history book every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	The surgeon explained routine checkups to the patient.	সার্জন রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student studies physics on Wednesday.	শিক্ষার্থী পদার্থবিজ্ঞান বুধবার পড়ে।
+train	Rahim likes bread.	রহিম রুটি পছন্দ করে।
+train	The traveler goes to the city by taxi.	ভ্রমণকারী শহরে ট্যাক্সিতে যায়।
+train	Where can I buy fresh vegetables in the shopping mall?	আমি শপিং মলে তাজা সবজি কোথায় কিনতে পারি?
+train	The doctor explained proper sleep to the patient.	ডাক্তার রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The counselor explained healthy eating to the patient.	পরামর্শদাতা রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	The dentist explained regular exercise to the patient.	দন্তচিকিৎসক রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student studies English in the evening.	শিক্ষার্থী ইংরেজি সন্ধ্যায় পড়ে।
+train	The cup is purple.	কাপটি বেগুনি।
+train	Please bring a notebook before class.	দয়া করে ক্লাসের আগে একটি খাতা আনুন।
+train	The book is blue.	বইটি নীল।
+train	The student completed the assignment this morning.	শিক্ষার্থী আজ সকালে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	The student studies Bangla on Friday.	শিক্ষার্থী বাংলা শুক্রবার পড়ে।
+train	Karim likes fish.	করিম মাছ পছন্দ করে।
+train	We measured validation loss for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	The student studies geography in the afternoon.	শিক্ষার্থী ভূগোল বিকেলে পড়ে।
+train	the student reads a textbook every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	Mina goes to the village every week.	মিনা প্রতি সপ্তাহে গ্রামে যায়।
+train	Where can I buy a mobile charger in the city center?	আমি শহরের কেন্দ্রে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	Please wait for the teacher now.	দয়া করে এখন শিক্ষকের জন্য অপেক্ষা করুন।
+train	There is a office in the telephone.	অফিসে একটি টেলিফোন আছে।
+train	during the weekend, the family plays indoor games.	সাপ্তাহিক ছুটিতে পরিবারটি ঘরের ভেতর খেলা করে।
+train	The shopkeeper packed one shirts.	দোকানদার একটি শার্ট প্যাক করেছে।
+train	The traveler goes to the river port by taxi.	ভ্রমণকারী নদীবন্দরে ট্যাক্সিতে যায়।
+train	Rahim reads a poem every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	The student studies economics during the weekend.	শিক্ষার্থী অর্থনীতি সাপ্তাহিক ছুটিতে পড়ে।
+train	The pharmacy is post office the near.	ওষুধের দোকানটি ডাকঘরটির কাছে।
+train	Where can I buy a notebook in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি খাতা কোথায় কিনতে পারি?
+train	The physiotherapist explained regular exercise to the patient.	ফিজিওথেরাপিস্ট রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	on Monday, the family visits the grandparents.	সোমবার পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	My friend will travel to the city next Monday.	আমার বন্ধু আগামী সোমবার শহরে যাবে।
+train	The traveler goes to the city by airplane.	ভ্রমণকারী শহরে বিমানে যায়।
+train	the teacher reads a short story every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	The baseline model is trained for language identification.	বেসলাইন মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The traveler goes to the river port by motorcycle.	ভ্রমণকারী নদীবন্দরে মোটরসাইকেলে যায়।
+train	The kite is purple.	ঘুড়িটি বেগুনি।
+train	after class, the family watches a movie.	ক্লাসের পরে পরিবারটি একটি সিনেমা দেখে।
+train	Where can I buy a train ticket in the market?	আমি বাজারে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	The car is yellow.	গাড়িটি হলুদ।
+train	The student studies history before class.	শিক্ষার্থী ইতিহাস ক্লাসের আগে পড়ে।
+train	If it remains clear, we will visit the market.	যদি আকাশ পরিষ্কার থাকে, আমরা বাজারে যাব।
+train	The student sent the email in the evening.	শিক্ষার্থী সন্ধ্যায় ইমেইলটি পাঠিয়েছে।
+train	The student planted a tree on Monday.	শিক্ষার্থী সোমবার একটি গাছ লাগিয়েছে।
+train	The developer uses the computer to analyze data.	ডেভেলপার কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	We measured accuracy for the first experiment.	আমরা প্রথম পরীক্ষার নির্ভুলতা পরিমাপ করেছি।
+train	The small Transformer is trained for question answering.	ছোট ট্রান্সফরমারটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	The student completed the assignment yesterday.	শিক্ষার্থী গতকাল অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	The bicycle is black.	সাইকেলটি কালো।
+train	The shopkeeper packed three toys.	দোকানদার তিনটি খেলনা প্যাক করেছে।
+train	during the holiday, the family listens to music.	ছুটির সময় পরিবারটি গান শোনে।
+train	The student prepared breakfast on Monday.	শিক্ষার্থী সোমবার সকালের নাশতা তৈরি করেছে।
+train	on Friday, the family visits the grandparents.	শুক্রবার পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	The shopkeeper packed one pens.	দোকানদার একটি কলম প্যাক করেছে।
+train	the farmer likes rice.	কৃষক ভাত পছন্দ করে।
+train	Rina goes to the office every week.	রিনা প্রতি সপ্তাহে অফিসে যায়।
+train	The nurse explained stress management to the patient.	নার্স রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is bank the to the left of.	ওষুধের দোকানটি ব্যাংকটির বাম পাশে।
+train	The surgeon explained drinking water to the patient.	সার্জন রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	during the holiday, the family watches a movie.	ছুটির সময় পরিবারটি একটি সিনেমা দেখে।
+train	Where can I buy a train ticket in the station?	আমি স্টেশনে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+train	Where can I buy fresh vegetables in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় তাজা সবজি কোথায় কিনতে পারি?
+train	during the holiday, the family cleans the house.	ছুটির সময় পরিবারটি বাড়ি পরিষ্কার করে।
+train	If it is windy, we will play outside.	যদি বাতাস থাকে, আমরা বাইরে খেলব।
+train	The traveler goes to the river port by train.	ভ্রমণকারী নদীবন্দরে ট্রেনে যায়।
+train	The pharmacy is park the south of.	ওষুধের দোকানটি পার্কটির দক্ষিণে।
+train	Mina goes to school every week.	মিনা প্রতি সপ্তাহে স্কুলে যায়।
+train	The student studies geography after class.	শিক্ষার্থী ভূগোল ক্লাসের পরে পড়ে।
+train	The student studies economics in the evening.	শিক্ষার্থী অর্থনীতি সন্ধ্যায় পড়ে।
+train	The shopkeeper packed ten toys.	দোকানদার দশটি খেলনা প্যাক করেছে।
+train	The student studies chemistry during the weekend.	শিক্ষার্থী রসায়ন সাপ্তাহিক ছুটিতে পড়ে।
+train	There is a classroom in the cabinet.	শ্রেণিকক্ষে একটি আলমারি আছে।
+train	every night, the family cleans the house.	প্রতি রাতে পরিবারটি বাড়ি পরিষ্কার করে।
+train	The physiotherapist explained routine checkups to the patient.	ফিজিওথেরাপিস্ট রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student cleaned the room in the evening.	শিক্ষার্থী সন্ধ্যায় ঘরটি পরিষ্কার করেছে।
+train	The shopkeeper packed seven bottles.	দোকানদার সাতটি বোতল প্যাক করেছে।
+train	If it is cloudy, we will cancel the picnic.	যদি আকাশ মেঘলা থাকে, আমরা বনভোজন বাতিল করব।
+train	the student goes to the village every week.	শিক্ষার্থী প্রতি সপ্তাহে গ্রামে যায়।
+train	The student prepared breakfast last week.	শিক্ষার্থী গত সপ্তাহে সকালের নাশতা তৈরি করেছে।
+train	The translation model is trained for language identification.	অনুবাদ মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	Please send the message after lunch.	দয়া করে দুপুরের খাবারের পরে বার্তাটি পাঠান।
+train	My friend will finish the project during the holiday.	আমার বন্ধু ছুটির সময় প্রকল্পটি শেষ করবে।
+train	The pharmacist explained hand hygiene to the patient.	ফার্মাসিস্ট রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please send the message without delay.	দয়া করে বিলম্ব না করে বার্তাটি পাঠান।
+train	my sister likes chicken.	আমার বোন মুরগির মাংস পছন্দ করে।
+train	The student studies mathematics in the evening.	শিক্ষার্থী গণিত সন্ধ্যায় পড়ে।
+train	The shopkeeper packed seven books.	দোকানদার সাতটি বই প্যাক করেছে।
+train	The student studies computer science during the weekend.	শিক্ষার্থী কম্পিউটার বিজ্ঞান সাপ্তাহিক ছুটিতে পড়ে।
+train	The student prepared breakfast at noon.	শিক্ষার্থী দুপুরে সকালের নাশতা তৈরি করেছে।
+train	The student repaired the bicycle before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে সাইকেলটি মেরামত করেছে।
+train	The physiotherapist explained healthy eating to the patient.	ফিজিওথেরাপিস্ট রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student sent the email before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে ইমেইলটি পাঠিয়েছে।
+train	The student studies history at night.	শিক্ষার্থী ইতিহাস রাতে পড়ে।
+train	The pharmacy is library the south of.	ওষুধের দোকানটি গ্রন্থাগারটির দক্ষিণে।
+train	My friend will finish the project next week.	আমার বন্ধু আগামী সপ্তাহে প্রকল্পটি শেষ করবে।
+train	The technician uses the computer to analyze data.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	If it stops raining, we will cancel the picnic.	যদি বৃষ্টি থেমে যায়, আমরা বনভোজন বাতিল করব।
+train	The therapist explained regular exercise to the patient.	থেরাপিস্ট রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The attention model is trained for language identification.	অ্যাটেনশন মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The scientist uses the computer to solve a problem.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	Karim reads an article every evening.	করিম প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	The pharmacy is bank the in front of.	ওষুধের দোকানটি ব্যাংকটির সামনে।
+train	The student repaired the bicycle during the break.	শিক্ষার্থী বিরতির সময় সাইকেলটি মেরামত করেছে।
+train	Mina goes to the office every week.	মিনা প্রতি সপ্তাহে অফিসে যায়।
+train	The shopkeeper packed ten boxes.	দোকানদার দশটি বাক্স প্যাক করেছে।
+train	Where can I buy a dictionary in the station?	আমি স্টেশনে একটি অভিধান কোথায় কিনতে পারি?
+train	If it is windy, we will wear warm clothes.	যদি বাতাস থাকে, আমরা গরম কাপড় পরব।
+train	We measured training loss for the new model.	আমরা নতুন মডেলের প্রশিক্ষণ লস পরিমাপ করেছি।
+train	We measured tokenization speed for the validation set.	আমরা ভ্যালিডেশন সেটের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	The pharmacy is mosque the opposite.	ওষুধের দোকানটি মসজিদটির বিপরীতে।
+train	There is a kitchen in the chair.	রান্নাঘরে একটি চেয়ার আছে।
+train	the doctor goes to the park every week.	ডাক্তার প্রতি সপ্তাহে পার্কে যায়।
+train	The door is pink.	দরজাটি গোলাপি।
+train	If it is cloudy, we will drink more water.	যদি আকাশ মেঘলা থাকে, আমরা আরও পানি পান করব।
+train	The shopkeeper packed two toys.	দোকানদার দুটি খেলনা প্যাক করেছে।
+train	Rahim reads a magazine every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	the young athlete can write clearly very well.	তরুণ খেলোয়াড় খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	the student likes bread.	শিক্ষার্থী রুটি পছন্দ করে।
+train	every morning, the family shares stories.	প্রতিদিন সকালে পরিবারটি গল্প ভাগাভাগি করে।
+train	The researcher uses the computer to train a model.	গবেষক কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	There is a waiting room in the fan.	অপেক্ষাকক্ষে একটি পাখা আছে।
+train	The student repaired the bicycle on Monday.	শিক্ষার্থী সোমবার সাইকেলটি মেরামত করেছে।
+train	If it is cold, we will carry an umbrella.	যদি ঠান্ডা থাকে, আমরা ছাতা সঙ্গে নেব।
+train	the student goes to the library every week.	শিক্ষার্থী প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	Where can I buy a new shirt in the hospital area?	আমি হাসপাতাল এলাকায় একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	Please write your name after lunch.	দয়া করে দুপুরের খাবারের পরে আপনার নাম লিখুন।
+train	The shopkeeper packed four toys.	দোকানদার চারটি খেলনা প্যাক করেছে।
+train	The traveler goes to Sylhet by boat.	ভ্রমণকারী সিলেটে নৌকায় যায়।
+train	The bicycle is pink.	সাইকেলটি গোলাপি।
+train	The traveler goes to Rajshahi by bicycle.	ভ্রমণকারী রাজশাহীতে সাইকেলে যায়।
+train	There is a laboratory in the window.	গবেষণাগারে একটি জানালা আছে।
+train	The student studies chemistry before class.	শিক্ষার্থী রসায়ন ক্লাসের আগে পড়ে।
+train	My friend will meet the teacher next week.	আমার বন্ধু আগামী সপ্তাহে শিক্ষকের সঙ্গে দেখা করবে।
+train	on Monday, the family shares stories.	সোমবার পরিবারটি গল্প ভাগাভাগি করে।
+train	The student sent the email on Monday.	শিক্ষার্থী সোমবার ইমেইলটি পাঠিয়েছে।
+train	The translation model is trained for English-to-Bangla translation.	অনুবাদ মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	My friend will prepare the documents at ten o'clock.	আমার বন্ধু দশটায় কাগজপত্র প্রস্তুত করবে।
+train	the student reads a magazine every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	Where can I buy some medicine in the market?	আমি বাজারে কিছু ওষুধ কোথায় কিনতে পারি?
+train	The student planted a tree at noon.	শিক্ষার্থী দুপুরে একটি গাছ লাগিয়েছে।
+train	the teacher goes to the market every week.	শিক্ষক প্রতি সপ্তাহে বাজারে যায়।
+train	Please read the instructions this morning.	দয়া করে আজ সকালে নির্দেশনাগুলো পড়ুন।
+train	We measured parameter count for the translation system.	আমরা অনুবাদ ব্যবস্থার প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	my brother goes to the hospital every week.	আমার ভাই প্রতি সপ্তাহে হাসপাতালে যায়।
+train	the doctor goes to the library every week.	ডাক্তার প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	Where can I buy a mobile charger in the bus terminal?	আমি বাস টার্মিনালে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	on Friday, the family plans the next week.	শুক্রবার পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	Please read the instructions one more time.	দয়া করে আরেকবার নির্দেশনাগুলো পড়ুন।
+train	Rahim likes soup.	রহিম স্যুপ পছন্দ করে।
+train	the young athlete can play football very well.	তরুণ খেলোয়াড় খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	If it is foggy, we will visit the market.	যদি কুয়াশা থাকে, আমরা বাজারে যাব।
+train	Please write your name carefully.	দয়া করে সাবধানে আপনার নাম লিখুন।
+train	Where can I buy a new shirt in the airport?	আমি বিমানবন্দরে একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	The student studies physics on Monday.	শিক্ষার্থী পদার্থবিজ্ঞান সোমবার পড়ে।
+train	The teacher uses the computer to create a report.	শিক্ষক কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	We measured training loss for the translation system.	আমরা অনুবাদ ব্যবস্থার প্রশিক্ষণ লস পরিমাপ করেছি।
+train	If it stops raining, we will go to the park.	যদি বৃষ্টি থেমে যায়, আমরা পার্কে যাব।
+train	The shopkeeper packed ten notebooks.	দোকানদার দশটি খাতা প্যাক করেছে।
+train	The shopkeeper packed seven packages.	দোকানদার সাতটি প্যাকেট প্যাক করেছে।
+train	Rahim can organize events very well.	রহিম খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	If it is cold, we will cancel the picnic.	যদি ঠান্ডা থাকে, আমরা বনভোজন বাতিল করব।
+train	The shopkeeper packed eight books.	দোকানদার আটটি বই প্যাক করেছে।
+train	My friend will join the class during the holiday.	আমার বন্ধু ছুটির সময় ক্লাসে যোগ দেবে।
+train	The student studies biology in the evening.	শিক্ষার্থী জীববিজ্ঞান সন্ধ্যায় পড়ে।
+train	My friend will visit the library at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে গ্রন্থাগারে যাবে।
+train	The traveler goes to the city by car.	ভ্রমণকারী শহরে গাড়িতে যায়।
+train	The therapist explained drinking water to the patient.	থেরাপিস্ট রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	my sister reads a report every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The encoder-decoder model is trained for text classification.	এনকোডার-ডিকোডার মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	my sister likes fish.	আমার বোন মাছ পছন্দ করে।
+train	Where can I buy fresh vegetables in the market?	আমি বাজারে তাজা সবজি কোথায় কিনতে পারি?
+train	The door is white.	দরজাটি সাদা।
+train	The student visited the museum last night.	শিক্ষার্থী গত রাতে জাদুঘরটি ঘুরে দেখেছে।
+train	The programmer uses the computer to store information.	প্রোগ্রামার কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	the student goes to the office every week.	শিক্ষার্থী প্রতি সপ্তাহে অফিসে যায়।
+train	The multilingual model is trained for English-to-Bangla translation.	বহুভাষিক মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	Please save the file before class.	দয়া করে ক্লাসের আগে ফাইলটি সংরক্ষণ করুন।
+train	The health worker explained stress management to the patient.	স্বাস্থ্যকর্মী রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it is hot, we will drink more water.	যদি গরম থাকে, আমরা আরও পানি পান করব।
+train	The student uses the computer to prepare a presentation.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The shopkeeper packed nine boxes.	দোকানদার নয়টি বাক্স প্যাক করেছে।
+train	There is a hall in the cabinet.	হলে একটি আলমারি আছে।
+train	the student goes to the university every week.	শিক্ষার্থী প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	the student can write clearly very well.	শিক্ষার্থী খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	The technician uses the computer to train a model.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	The student studies history on Friday.	শিক্ষার্থী ইতিহাস শুক্রবার পড়ে।
+train	The encoder-decoder model is trained for next-token prediction.	এনকোডার-ডিকোডার মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	The physiotherapist explained first aid to the patient.	ফিজিওথেরাপিস্ট রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it is sunny, we will drink more water.	যদি রোদ থাকে, আমরা আরও পানি পান করব।
+train	The student answered the question before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে প্রশ্নটির উত্তর দিয়েছে।
+train	The car is brown.	গাড়িটি বাদামি।
+train	Please open the door after lunch.	দয়া করে দুপুরের খাবারের পরে দরজাটি খুলুন।
+train	We measured validation loss for the validation set.	আমরা ভ্যালিডেশন সেটের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	There is a hall in the fan.	হলে একটি পাখা আছে।
+train	If it becomes cooler, we will close the windows.	যদি আবহাওয়া ঠান্ডা হয়, আমরা জানালাগুলো বন্ধ করব।
+train	There is a classroom in the table.	শ্রেণিকক্ষে একটি টেবিল আছে।
+train	Karim goes to the library every week.	করিম প্রতি সপ্তাহে গ্রন্থাগারে যায়।
+train	Karim can write clearly very well.	করিম খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	There is a living room in the telephone.	বসার ঘরে একটি টেলিফোন আছে।
+train	The kite is pink.	ঘুড়িটি গোলাপি।
+train	the teacher goes to school every week.	শিক্ষক প্রতি সপ্তাহে স্কুলে যায়।
+train	the young athlete can speak English very well.	তরুণ খেলোয়াড় খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	There is a hall in the whiteboard.	হলে একটি সাদা বোর্ড আছে।
+train	The teacher uses the computer to write code.	শিক্ষক কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	every evening, the family visits the grandparents.	প্রতিদিন সন্ধ্যায় পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	Mina likes chicken.	মিনা মুরগির মাংস পছন্দ করে।
+train	The designer uses the computer to analyze data.	ডিজাইনার কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	The health worker explained safe medicine use to the patient.	স্বাস্থ্যকর্মী রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	The car is blue.	গাড়িটি নীল।
+train	The shopkeeper packed eight toys.	দোকানদার আটটি খেলনা প্যাক করেছে।
+train	The engineer uses the computer to design a website.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The analyst uses the computer to read an article.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	If it is cloudy, we will go to the park.	যদি আকাশ মেঘলা থাকে, আমরা পার্কে যাব।
+train	We measured BLEU score for the final checkpoint.	আমরা চূড়ান্ত চেকপয়েন্টের ব্লু স্কোর পরিমাপ করেছি।
+train	The traveler goes to Chattogram by car.	ভ্রমণকারী চট্টগ্রামে গাড়িতে যায়।
+train	There is a store in the lamp.	দোকানে একটি বাতি আছে।
+train	after class, the family visits the grandparents.	ক্লাসের পরে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	The traveler goes to Dhaka by metro.	ভ্রমণকারী ঢাকায় মেট্রোতে যায়।
+train	The attention model is trained for intent detection.	অ্যাটেনশন মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	my brother likes bread.	আমার ভাই রুটি পছন্দ করে।
+train	The bag is orange.	ব্যাগটি কমলা রঙের।
+train	The shopkeeper packed six oranges.	দোকানদার ছয়টি কমলা প্যাক করেছে।
+train	The shopkeeper packed nine toys.	দোকানদার নয়টি খেলনা প্যাক করেছে।
+train	The student studies history on Monday.	শিক্ষার্থী ইতিহাস সোমবার পড়ে।
+train	before dinner, the family cooks together.	রাতের খাবারের আগে পরিবারটি একসঙ্গে রান্না করে।
+train	The student studies English after class.	শিক্ষার্থী ইংরেজি ক্লাসের পরে পড়ে।
+train	the student likes tea.	শিক্ষার্থী চা পছন্দ করে।
+train	The doctor explained healthy eating to the patient.	ডাক্তার রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+train	The student studies geography in the evening.	শিক্ষার্থী ভূগোল সন্ধ্যায় পড়ে।
+train	before dinner, the family plans the next week.	রাতের খাবারের আগে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	The student opened the window on Monday.	শিক্ষার্থী সোমবার জানালাটি খুলেছে।
+train	The physiotherapist explained proper sleep to the patient.	ফিজিওথেরাপিস্ট রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is library the north of.	ওষুধের দোকানটি গ্রন্থাগারটির উত্তরে।
+train	The student studies geography on Wednesday.	শিক্ষার্থী ভূগোল বুধবার পড়ে।
+train	The student studies mathematics on Monday.	শিক্ষার্থী গণিত সোমবার পড়ে।
+train	The student studies biology in the morning.	শিক্ষার্থী জীববিজ্ঞান সকালে পড়ে।
+train	The pharmacist explained regular exercise to the patient.	ফার্মাসিস্ট রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The surgeon explained proper sleep to the patient.	সার্জন রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The traveler goes to Cumilla by boat.	ভ্রমণকারী কুমিল্লায় নৌকায় যায়।
+train	The nurse explained hand hygiene to the patient.	নার্স রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The multilingual model is trained for language identification.	বহুভাষিক মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The developer uses the computer to create a report.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	The pharmacy is market the in front of.	ওষুধের দোকানটি বাজারটির সামনে।
+train	The student sent the email last week.	শিক্ষার্থী গত সপ্তাহে ইমেইলটি পাঠিয়েছে।
+train	The doctor explained dental care to the patient.	ডাক্তার রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The shopkeeper packed five packages.	দোকানদার পাঁচটি প্যাকেট প্যাক করেছে।
+train	The student visited the museum in the evening.	শিক্ষার্থী সন্ধ্যায় জাদুঘরটি ঘুরে দেখেছে।
+train	The shirt is black.	শার্টটি কালো।
+train	Mina can cook rice very well.	মিনা খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	My friend will finish the project tomorrow.	আমার বন্ধু আগামীকাল প্রকল্পটি শেষ করবে।
+train	my sister reads a history book every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	The nutritionist explained safe medicine use to the patient.	পুষ্টিবিদ রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	the teacher reads a magazine every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	The student studies physics in the morning.	শিক্ষার্থী পদার্থবিজ্ঞান সকালে পড়ে।
+train	The shirt is blue.	শার্টটি নীল।
+train	Karim can speak English very well.	করিম খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	The health worker explained regular exercise to the patient.	স্বাস্থ্যকর্মী রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is library the beside.	ওষুধের দোকানটি গ্রন্থাগারটির পাশে।
+train	The traveler goes to the airport by bus.	ভ্রমণকারী বিমানবন্দরে বাসে যায়।
+train	on Monday, the family listens to music.	সোমবার পরিবারটি গান শোনে।
+train	The developer uses the computer to write code.	ডেভেলপার কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	Karim reads a magazine every evening.	করিম প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	Karim goes to the market every week.	করিম প্রতি সপ্তাহে বাজারে যায়।
+train	The traveler goes to Dhaka by car.	ভ্রমণকারী ঢাকায় গাড়িতে যায়।
+train	during the holiday, the family plans the next week.	ছুটির সময় পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+train	Please send the message now.	দয়া করে এখন বার্তাটি পাঠান।
+train	The pharmacy is school the behind.	ওষুধের দোকানটি স্কুলটির পেছনে।
+train	There is a store in the cabinet.	দোকানে একটি আলমারি আছে।
+train	The traveler goes to the river port by metro.	ভ্রমণকারী নদীবন্দরে মেট্রোতে যায়।
+train	The kite is brown.	ঘুড়িটি বাদামি।
+train	The student opened the window in the evening.	শিক্ষার্থী সন্ধ্যায় জানালাটি খুলেছে।
+train	The analyst uses the computer to prepare a presentation.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The nutritionist explained proper sleep to the patient.	পুষ্টিবিদ রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	the teacher likes coffee.	শিক্ষক কফি পছন্দ করে।
+train	The student sent the email this morning.	শিক্ষার্থী আজ সকালে ইমেইলটি পাঠিয়েছে।
+train	If it is hot, we will travel carefully.	যদি গরম থাকে, আমরা সাবধানে ভ্রমণ করব।
+train	We measured perplexity for the second experiment.	আমরা দ্বিতীয় পরীক্ষার পারপ্লেক্সিটি পরিমাপ করেছি।
+train	the farmer goes to the park every week.	কৃষক প্রতি সপ্তাহে পার্কে যায়।
+train	Please wait for the teacher before class.	দয়া করে ক্লাসের আগে শিক্ষকের জন্য অপেক্ষা করুন।
+train	The traveler goes to Dhaka by train.	ভ্রমণকারী ঢাকায় ট্রেনে যায়।
+train	We measured memory usage for the new model.	আমরা নতুন মডেলের মেমরি ব্যবহার পরিমাপ করেছি।
+train	If it is cloudy, we will carry an umbrella.	যদি আকাশ মেঘলা থাকে, আমরা ছাতা সঙ্গে নেব।
+train	The shopkeeper packed four bottles.	দোকানদার চারটি বোতল প্যাক করেছে।
+train	Where can I buy a cup of tea in the station?	আমি স্টেশনে এক কাপ চা কোথায় কিনতে পারি?
+train	the student can draw pictures very well.	শিক্ষার্থী খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The shopkeeper packed nine shirts.	দোকানদার নয়টি শার্ট প্যাক করেছে।
+train	Where can I buy a new shirt in this village?	আমি এই গ্রামে একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	The student checked the results after class.	শিক্ষার্থী ক্লাসের পরে ফলাফলগুলো পরীক্ষা করেছে।
+train	The pharmacy is park the to the left of.	ওষুধের দোকানটি পার্কটির বাম পাশে।
+train	The student studies English in the afternoon.	শিক্ষার্থী ইংরেজি বিকেলে পড়ে।
+train	my sister likes mangoes.	আমার বোন আম পছন্দ করে।
+train	The experimental model is trained for next-token prediction.	পরীক্ষামূলক মডেলটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	The traveler goes to Rajshahi by taxi.	ভ্রমণকারী রাজশাহীতে ট্যাক্সিতে যায়।
+train	The dentist explained first aid to the patient.	দন্তচিকিৎসক রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is station the to the right of.	ওষুধের দোকানটি স্টেশনটির ডান পাশে।
+train	my friend can play football very well.	আমার বন্ধু খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	The doctor explained drinking water to the patient.	ডাক্তার রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please answer the question before you leave.	দয়া করে যাওয়ার আগে প্রশ্নটির উত্তর দিন।
+train	The health worker explained proper sleep to the patient.	স্বাস্থ্যকর্মী রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	The shopkeeper packed six packages.	দোকানদার ছয়টি প্যাকেট প্যাক করেছে।
+train	My friend will buy some groceries tomorrow.	আমার বন্ধু আগামীকাল কিছু মুদি পণ্য কিনবে।
+train	If it is hot, we will go to the park.	যদি গরম থাকে, আমরা পার্কে যাব।
+train	The umbrella is purple.	ছাতাটি বেগুনি।
+train	Please save the file after lunch.	দয়া করে দুপুরের খাবারের পরে ফাইলটি সংরক্ষণ করুন।
+train	The neural network is trained for sentiment analysis.	নিউরাল নেটওয়ার্কটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	The student studies English on Wednesday.	শিক্ষার্থী ইংরেজি বুধবার পড়ে।
+train	The shopkeeper packed three pens.	দোকানদার তিনটি কলম প্যাক করেছে।
+train	Rahim goes to school every week.	রহিম প্রতি সপ্তাহে স্কুলে যায়।
+train	The book is green.	বইটি সবুজ।
+train	The engineer uses the computer to analyze data.	প্রকৌশলী কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	The shopkeeper packed two shirts.	দোকানদার দুটি শার্ট প্যাক করেছে।
+train	The cup is white.	কাপটি সাদা।
+train	The student repaired the bicycle yesterday.	শিক্ষার্থী গতকাল সাইকেলটি মেরামত করেছে।
+train	The traveler goes to Khulna by rickshaw.	ভ্রমণকারী খুলনায় রিকশায় যায়।
+train	Karim can use a computer very well.	করিম খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	My friend will meet the teacher next Monday.	আমার বন্ধু আগামী সোমবার শিক্ষকের সঙ্গে দেখা করবে।
+train	The teacher uses the computer to analyze data.	শিক্ষক কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	my friend can ride a bicycle very well.	আমার বন্ধু খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	my brother reads a novel every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	Where can I buy a bottle of water in this village?	আমি এই গ্রামে এক বোতল পানি কোথায় কিনতে পারি?
+train	The shopkeeper packed one bottles.	দোকানদার একটি বোতল প্যাক করেছে।
+train	my brother can speak English very well.	আমার ভাই খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	The shopkeeper packed seven boxes.	দোকানদার সাতটি বাক্স প্যাক করেছে।
+train	The engineer uses the computer to store information.	প্রকৌশলী কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	The baseline model is trained for text classification.	বেসলাইন মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	The shopkeeper packed four apples.	দোকানদার চারটি আপেল প্যাক করেছে।
+train	The pharmacy is market the south of.	ওষুধের দোকানটি বাজারটির দক্ষিণে।
+train	The shopkeeper packed two bottles.	দোকানদার দুটি বোতল প্যাক করেছে।
+train	We measured perplexity for the training set.	আমরা প্রশিক্ষণ সেটের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	Where can I buy a bottle of water in the station?	আমি স্টেশনে এক বোতল পানি কোথায় কিনতে পারি?
+train	Please close the window one more time.	দয়া করে আরেকবার জানালাটি বন্ধ করুন।
+train	The student planted a tree after class.	শিক্ষার্থী ক্লাসের পরে একটি গাছ লাগিয়েছে।
+train	If it rains, we will close the windows.	যদি বৃষ্টি হয়, আমরা জানালাগুলো বন্ধ করব।
+train	My friend will meet the teacher tomorrow.	আমার বন্ধু আগামীকাল শিক্ষকের সঙ্গে দেখা করবে।
+train	the teacher likes mangoes.	শিক্ষক আম পছন্দ করে।
+train	The scientist uses the computer to create a report.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	There is a library in the window.	গ্রন্থাগারে একটি জানালা আছে।
+train	every morning, the family visits the grandparents.	প্রতিদিন সকালে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	My friend will join the class this afternoon.	আমার বন্ধু আজ বিকেলে ক্লাসে যোগ দেবে।
+train	The bag is green.	ব্যাগটি সবুজ।
+train	The pharmacy is library the near.	ওষুধের দোকানটি গ্রন্থাগারটির কাছে।
+train	Rahim goes to the hospital every week.	রহিম প্রতি সপ্তাহে হাসপাতালে যায়।
+train	my friend can organize events very well.	আমার বন্ধু খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	Rina can cook rice very well.	রিনা খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The student studies chemistry in the afternoon.	শিক্ষার্থী রসায়ন বিকেলে পড়ে।
+train	my friend can cook rice very well.	আমার বন্ধু খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	the young athlete can cook rice very well.	তরুণ খেলোয়াড় খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	The language model is trained for Bangla-to-English translation.	ভাষা মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	Rahim can draw pictures very well.	রহিম খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The pharmacy is station the north of.	ওষুধের দোকানটি স্টেশনটির উত্তরে।
+train	The student prepared breakfast this morning.	শিক্ষার্থী আজ সকালে সকালের নাশতা তৈরি করেছে।
+train	The technician uses the computer to create a report.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	Mina can organize events very well.	মিনা খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	There is a bedroom in the whiteboard.	শোবার ঘরে একটি সাদা বোর্ড আছে।
+train	The scientist uses the computer to read an article.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+train	The language model is trained for text classification.	ভাষা মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	Mina reads a science book every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	my sister goes to the village every week.	আমার বোন প্রতি সপ্তাহে গ্রামে যায়।
+train	Where can I buy a dictionary in the market?	আমি বাজারে একটি অভিধান কোথায় কিনতে পারি?
+train	The umbrella is pink.	ছাতাটি গোলাপি।
+train	If it remains clear, we will stay at home.	যদি আকাশ পরিষ্কার থাকে, আমরা বাড়িতে থাকব।
+train	Where can I buy some medicine in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় কিছু ওষুধ কোথায় কিনতে পারি?
+train	The encoder-decoder model is trained for text summarization.	এনকোডার-ডিকোডার মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	the student goes to the station every week.	শিক্ষার্থী প্রতি সপ্তাহে স্টেশনে যায়।
+train	The shopkeeper packed eight boxes.	দোকানদার আটটি বাক্স প্যাক করেছে।
+train	my friend can solve puzzles very well.	আমার বন্ধু খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	My friend will review the lesson next Monday.	আমার বন্ধু আগামী সোমবার পাঠটি পুনরায় দেখবে।
+train	The researcher uses the computer to prepare a presentation.	গবেষক কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	The attention model is trained for sentiment analysis.	অ্যাটেনশন মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	My friend will visit the library this afternoon.	আমার বন্ধু আজ বিকেলে গ্রন্থাগারে যাবে।
+train	There is a kitchen in the telephone.	রান্নাঘরে একটি টেলিফোন আছে।
+train	The student studies economics in the afternoon.	শিক্ষার্থী অর্থনীতি বিকেলে পড়ে।
+train	We measured BLEU score for the baseline model.	আমরা বেসলাইন মডেলের ব্লু স্কোর পরিমাপ করেছি।
+train	We measured memory usage for the first experiment.	আমরা প্রথম পরীক্ষার মেমরি ব্যবহার পরিমাপ করেছি।
+train	The shopkeeper packed eight pens.	দোকানদার আটটি কলম প্যাক করেছে।
+train	The researcher uses the computer to store information.	গবেষক কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	The traveler goes to the river port by boat.	ভ্রমণকারী নদীবন্দরে নৌকায় যায়।
+train	If it is hot, we will play outside.	যদি গরম থাকে, আমরা বাইরে খেলব।
+train	the teacher goes to the village every week.	শিক্ষক প্রতি সপ্তাহে গ্রামে যায়।
+train	on Friday, the family shares stories.	শুক্রবার পরিবারটি গল্প ভাগাভাগি করে।
+train	We measured validation loss for the test set.	আমরা টেস্ট সেটের ভ্যালিডেশন লস পরিমাপ করেছি।
+train	The shopkeeper packed three bottles.	দোকানদার তিনটি বোতল প্যাক করেছে।
+train	There is a kitchen in the cabinet.	রান্নাঘরে একটি আলমারি আছে।
+train	The therapist explained proper sleep to the patient.	থেরাপিস্ট রোগীকে পর্যাপ্ত ঘুম সম্পর্কে বুঝিয়ে বলেছেন।
+train	every morning, the family listens to music.	প্রতিদিন সকালে পরিবারটি গান শোনে।
+train	on Friday, the family plays indoor games.	শুক্রবার পরিবারটি ঘরের ভেতর খেলা করে।
+train	The dentist explained hand hygiene to the patient.	দন্তচিকিৎসক রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	my sister goes to the university every week.	আমার বোন প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	There is a store in the clock.	দোকানে একটি ঘড়ি আছে।
+train	Mina reads a newspaper every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	We measured tokenization speed for the baseline model.	আমরা বেসলাইন মডেলের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	We measured inference time for the translation system.	আমরা অনুবাদ ব্যবস্থার ইনফারেন্স সময় পরিমাপ করেছি।
+train	The small Transformer is trained for sentiment analysis.	ছোট ট্রান্সফরমারটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	The student studies mathematics on Friday.	শিক্ষার্থী গণিত শুক্রবার পড়ে।
+train	Where can I buy some medicine in this village?	আমি এই গ্রামে কিছু ওষুধ কোথায় কিনতে পারি?
+train	The analyst uses the computer to create a report.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	The shopkeeper packed nine books.	দোকানদার নয়টি বই প্যাক করেছে।
+train	The traveler goes to the airport by taxi.	ভ্রমণকারী বিমানবন্দরে ট্যাক্সিতে যায়।
+train	the student goes to school every week.	শিক্ষার্থী প্রতি সপ্তাহে স্কুলে যায়।
+train	The analyst uses the computer to design a website.	বিশ্লেষক কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	The traveler goes to the airport by car.	ভ্রমণকারী বিমানবন্দরে গাড়িতে যায়।
+train	The traveler goes to Sylhet by car.	ভ্রমণকারী সিলেটে গাড়িতে যায়।
+train	the student can ride a bicycle very well.	শিক্ষার্থী খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	The traveler goes to Chattogram by rickshaw.	ভ্রমণকারী চট্টগ্রামে রিকশায় যায়।
+train	The student planted a tree this morning.	শিক্ষার্থী আজ সকালে একটি গাছ লাগিয়েছে।
+train	the student can solve puzzles very well.	শিক্ষার্থী খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	The shirt is orange.	শার্টটি কমলা রঙের।
+train	There is a classroom in the lamp.	শ্রেণিকক্ষে একটি বাতি আছে।
+train	Karim reads a novel every evening.	করিম প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	My friend will meet the teacher after breakfast.	আমার বন্ধু সকালের নাশতার পরে শিক্ষকের সঙ্গে দেখা করবে।
+train	the teacher can use a computer very well.	শিক্ষক খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The small Transformer is trained for language identification.	ছোট ট্রান্সফরমারটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	every night, the family cooks together.	প্রতি রাতে পরিবারটি একসঙ্গে রান্না করে।
+train	There is a office in the computer.	অফিসে একটি কম্পিউটার আছে।
+train	Where can I buy a new shirt in the shopping mall?	আমি শপিং মলে একটি নতুন শার্ট কোথায় কিনতে পারি?
+train	There is a library in the cabinet.	গ্রন্থাগারে একটি আলমারি আছে।
+train	The shopkeeper packed four notebooks.	দোকানদার চারটি খাতা প্যাক করেছে।
+train	the doctor goes to the office every week.	ডাক্তার প্রতি সপ্তাহে অফিসে যায়।
+train	my brother reads a newspaper every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	The scientist uses the computer to write code.	বিজ্ঞানী কম্পিউটার ব্যবহার করে কোড লিখতে।
+train	The traveler goes to Dhaka by bicycle.	ভ্রমণকারী ঢাকায় সাইকেলে যায়।
+train	The flower is blue.	ফুলটি নীল।
+train	The bicycle is green.	সাইকেলটি সবুজ।
+train	The attention model is trained for text classification.	অ্যাটেনশন মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	my sister goes to the hospital every week.	আমার বোন প্রতি সপ্তাহে হাসপাতালে যায়।
+train	The car is purple.	গাড়িটি বেগুনি।
+train	The traveler goes to Dhaka by boat.	ভ্রমণকারী ঢাকায় নৌকায় যায়।
+train	Please close the window without delay.	দয়া করে বিলম্ব না করে জানালাটি বন্ধ করুন।
+train	the teacher can ride a bicycle very well.	শিক্ষক খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	If it is foggy, we will play outside.	যদি কুয়াশা থাকে, আমরা বাইরে খেলব।
+train	If it stops raining, we will play outside.	যদি বৃষ্টি থেমে যায়, আমরা বাইরে খেলব।
+train	The shirt is brown.	শার্টটি বাদামি।
+train	The developer uses the computer to test the software.	ডেভেলপার কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+train	Please read the instructions without delay.	দয়া করে বিলম্ব না করে নির্দেশনাগুলো পড়ুন।
+train	The book is pink.	বইটি গোলাপি।
+train	The doctor explained safe medicine use to the patient.	ডাক্তার রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it stops raining, we will travel carefully.	যদি বৃষ্টি থেমে যায়, আমরা সাবধানে ভ্রমণ করব।
+train	The student studies biology on Monday.	শিক্ষার্থী জীববিজ্ঞান সোমবার পড়ে।
+train	My friend will attend the meeting this evening.	আমার বন্ধু আজ সন্ধ্যায় সভায় অংশ নেবে।
+train	my brother reads a report every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The shopkeeper packed nine apples.	দোকানদার নয়টি আপেল প্যাক করেছে।
+train	Rahim goes to the museum every week.	রহিম প্রতি সপ্তাহে জাদুঘরে যায়।
+train	the farmer goes to school every week.	কৃষক প্রতি সপ্তাহে স্কুলে যায়।
+train	The student studies geography on Monday.	শিক্ষার্থী ভূগোল সোমবার পড়ে।
+train	my sister can speak English very well.	আমার বোন খুব ভালোভাবে ইংরেজি বলতে পারে।
+train	The student checked the results in the evening.	শিক্ষার্থী সন্ধ্যায় ফলাফলগুলো পরীক্ষা করেছে।
+train	We measured accuracy for the translation system.	আমরা অনুবাদ ব্যবস্থার নির্ভুলতা পরিমাপ করেছি।
+train	Rahim likes bananas.	রহিম কলা পছন্দ করে।
+train	The translation model is trained for sentiment analysis.	অনুবাদ মডেলটি অনুভূতি বিশ্লেষণের জন্য প্রশিক্ষিত।
+train	If it is foggy, we will cancel the picnic.	যদি কুয়াশা থাকে, আমরা বনভোজন বাতিল করব।
+train	The pharmacy is market the to the left of.	ওষুধের দোকানটি বাজারটির বাম পাশে।
+train	The student studies computer science in the morning.	শিক্ষার্থী কম্পিউটার বিজ্ঞান সকালে পড়ে।
+train	The student checked the results at noon.	শিক্ষার্থী দুপুরে ফলাফলগুলো পরীক্ষা করেছে।
+train	Please open the door when you are ready.	দয়া করে আপনি প্রস্তুত হলে দরজাটি খুলুন।
+train	every afternoon, the family shares stories.	প্রতিদিন বিকেলে পরিবারটি গল্প ভাগাভাগি করে।
+train	There is a bedroom in the computer.	শোবার ঘরে একটি কম্পিউটার আছে।
+train	Please wait for the teacher before you leave.	দয়া করে যাওয়ার আগে শিক্ষকের জন্য অপেক্ষা করুন।
+train	every night, the family walks in the park.	প্রতি রাতে পরিবারটি পার্কে হাঁটে।
+train	The student answered the question at noon.	শিক্ষার্থী দুপুরে প্রশ্নটির উত্তর দিয়েছে।
+train	The student studies economics on Wednesday.	শিক্ষার্থী অর্থনীতি বুধবার পড়ে।
+train	The student studies history on Wednesday.	শিক্ষার্থী ইতিহাস বুধবার পড়ে।
+train	We measured inference time for the first experiment.	আমরা প্রথম পরীক্ষার ইনফারেন্স সময় পরিমাপ করেছি।
+train	The translation model is trained for text summarization.	অনুবাদ মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+train	Where can I buy fresh vegetables in this neighborhood?	আমি এই এলাকায় তাজা সবজি কোথায় কিনতে পারি?
+train	Karim reads a textbook every evening.	করিম প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	Rina reads an article every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+train	We measured accuracy for the small model.	আমরা ছোট মডেলের নির্ভুলতা পরিমাপ করেছি।
+train	my sister reads a poem every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	Karim reads a science book every evening.	করিম প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	My friend will prepare the documents during the holiday.	আমার বন্ধু ছুটির সময় কাগজপত্র প্রস্তুত করবে।
+train	The shopkeeper packed two apples.	দোকানদার দুটি আপেল প্যাক করেছে।
+train	The flower is white.	ফুলটি সাদা।
+train	My friend will meet the teacher at ten o'clock.	আমার বন্ধু দশটায় শিক্ষকের সঙ্গে দেখা করবে।
+train	Karim goes to the station every week.	করিম প্রতি সপ্তাহে স্টেশনে যায়।
+train	The translation model is trained for intent detection.	অনুবাদ মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	My friend will call the manager at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে ব্যবস্থাপককে ফোন করবে।
+train	The student sent the email last night.	শিক্ষার্থী গত রাতে ইমেইলটি পাঠিয়েছে।
+train	The shopkeeper packed two packages.	দোকানদার দুটি প্যাকেট প্যাক করেছে।
+train	Please read the instructions carefully.	দয়া করে সাবধানে নির্দেশনাগুলো পড়ুন।
+train	The car is green.	গাড়িটি সবুজ।
+train	If it is cloudy, we will play outside.	যদি আকাশ মেঘলা থাকে, আমরা বাইরে খেলব।
+train	If it remains clear, we will cancel the picnic.	যদি আকাশ পরিষ্কার থাকে, আমরা বনভোজন বাতিল করব।
+train	The student studies English at night.	শিক্ষার্থী ইংরেজি রাতে পড়ে।
+train	There is a laboratory in the cabinet.	গবেষণাগারে একটি আলমারি আছে।
+train	The student studies mathematics in the morning.	শিক্ষার্থী গণিত সকালে পড়ে।
+train	Where can I buy a cup of tea in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় এক কাপ চা কোথায় কিনতে পারি?
+train	There is a kitchen in the lamp.	রান্নাঘরে একটি বাতি আছে।
+train	my sister reads a newspaper every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	Where can I buy some medicine in the city center?	আমি শহরের কেন্দ্রে কিছু ওষুধ কোথায় কিনতে পারি?
+train	The pharmacy is market the to the right of.	ওষুধের দোকানটি বাজারটির ডান পাশে।
+train	every night, the family shares stories.	প্রতি রাতে পরিবারটি গল্প ভাগাভাগি করে।
+train	The bag is blue.	ব্যাগটি নীল।
+train	the student likes rice.	শিক্ষার্থী ভাত পছন্দ করে।
+train	Rahim reads a short story every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+train	The door is yellow.	দরজাটি হলুদ।
+train	The student planted a tree last night.	শিক্ষার্থী গত রাতে একটি গাছ লাগিয়েছে।
+train	The nutritionist explained routine checkups to the patient.	পুষ্টিবিদ রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	Karim goes to the university every week.	করিম প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	the teacher likes tea.	শিক্ষক চা পছন্দ করে।
+train	Where can I buy a bottle of water in the bus terminal?	আমি বাস টার্মিনালে এক বোতল পানি কোথায় কিনতে পারি?
+train	Where can I buy some medicine in the hospital area?	আমি হাসপাতাল এলাকায় কিছু ওষুধ কোথায় কিনতে পারি?
+train	The nutritionist explained dental care to the patient.	পুষ্টিবিদ রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The shopkeeper packed two oranges.	দোকানদার দুটি কমলা প্যাক করেছে।
+train	My friend will finish the project next Monday.	আমার বন্ধু আগামী সোমবার প্রকল্পটি শেষ করবে।
+train	If it is cold, we will stay at home.	যদি ঠান্ডা থাকে, আমরা বাড়িতে থাকব।
+train	my brother reads a magazine every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+train	The neural network is trained for intent detection.	নিউরাল নেটওয়ার্কটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	Karim can solve puzzles very well.	করিম খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	before dinner, the family listens to music.	রাতের খাবারের আগে পরিবারটি গান শোনে।
+train	The shopkeeper packed five apples.	দোকানদার পাঁচটি আপেল প্যাক করেছে।
+train	We measured tokenization speed for the new model.	আমরা নতুন মডেলের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	My friend will join the class next Monday.	আমার বন্ধু আগামী সোমবার ক্লাসে যোগ দেবে।
+train	every afternoon, the family listens to music.	প্রতিদিন বিকেলে পরিবারটি গান শোনে।
+train	The student studies biology before class.	শিক্ষার্থী জীববিজ্ঞান ক্লাসের আগে পড়ে।
+train	The shopkeeper packed five toys.	দোকানদার পাঁচটি খেলনা প্যাক করেছে।
+train	The pharmacy is post office the beside.	ওষুধের দোকানটি ডাকঘরটির পাশে।
+train	The door is purple.	দরজাটি বেগুনি।
+train	The encoder-decoder model is trained for Bangla-to-English translation.	এনকোডার-ডিকোডার মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+train	My friend will buy some groceries before noon.	আমার বন্ধু দুপুরের আগে কিছু মুদি পণ্য কিনবে।
+train	The designer uses the computer to prepare a presentation.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি উপস্থাপনা প্রস্তুত করতে।
+train	my brother likes chicken.	আমার ভাই মুরগির মাংস পছন্দ করে।
+train	The student repaired the bicycle at noon.	শিক্ষার্থী দুপুরে সাইকেলটি মেরামত করেছে।
+train	the doctor goes to the market every week.	ডাক্তার প্রতি সপ্তাহে বাজারে যায়।
+train	The student visited the museum during the break.	শিক্ষার্থী বিরতির সময় জাদুঘরটি ঘুরে দেখেছে।
+train	The umbrella is white.	ছাতাটি সাদা।
+train	The student studies mathematics before class.	শিক্ষার্থী গণিত ক্লাসের আগে পড়ে।
+train	The cup is orange.	কাপটি কমলা রঙের।
+train	the teacher reads a poem every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+train	The student uses the computer to store information.	শিক্ষার্থী কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	before dinner, the family walks in the park.	রাতের খাবারের আগে পরিবারটি পার্কে হাঁটে।
+train	My friend will travel to the city next week.	আমার বন্ধু আগামী সপ্তাহে শহরে যাবে।
+train	Rina likes coffee.	রিনা কফি পছন্দ করে।
+train	The student visited the museum at noon.	শিক্ষার্থী দুপুরে জাদুঘরটি ঘুরে দেখেছে।
+train	the teacher likes rice.	শিক্ষক ভাত পছন্দ করে।
+train	The traveler goes to the countryside by bus.	ভ্রমণকারী গ্রামাঞ্চলে বাসে যায়।
+train	my brother likes bananas.	আমার ভাই কলা পছন্দ করে।
+train	The pharmacy is station the beside.	ওষুধের দোকানটি স্টেশনটির পাশে।
+train	Karim likes soup.	করিম স্যুপ পছন্দ করে।
+train	The traveler goes to Cumilla by car.	ভ্রমণকারী কুমিল্লায় গাড়িতে যায়।
+train	The pharmacy is restaurant the north of.	ওষুধের দোকানটি রেস্তোরাঁটির উত্তরে।
+train	The pharmacy is hospital the within walking distance of.	ওষুধের দোকানটি হাসপাতালটির হাঁটা দূরত্বের মধ্যে।
+train	The surgeon explained dental care to the patient.	সার্জন রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The bicycle is orange.	সাইকেলটি কমলা রঙের।
+train	Rahim likes vegetables.	রহিম সবজি পছন্দ করে।
+train	Karim likes chicken.	করিম মুরগির মাংস পছন্দ করে।
+train	The shopkeeper packed five pens.	দোকানদার পাঁচটি কলম প্যাক করেছে।
+train	Where can I buy a bottle of water in the city center?	আমি শহরের কেন্দ্রে এক বোতল পানি কোথায় কিনতে পারি?
+train	If it is windy, we will drink more water.	যদি বাতাস থাকে, আমরা আরও পানি পান করব।
+train	The car is red.	গাড়িটি লাল।
+train	Where can I buy a notebook in the shopping mall?	আমি শপিং মলে একটি খাতা কোথায় কিনতে পারি?
+train	The umbrella is orange.	ছাতাটি কমলা রঙের।
+train	Karim likes coffee.	করিম কফি পছন্দ করে।
+train	on Monday, the family plays indoor games.	সোমবার পরিবারটি ঘরের ভেতর খেলা করে।
+train	The shopkeeper packed one toys.	দোকানদার একটি খেলনা প্যাক করেছে।
+train	The traveler goes to the countryside by metro.	ভ্রমণকারী গ্রামাঞ্চলে মেট্রোতে যায়।
+train	The traveler goes to Chattogram by taxi.	ভ্রমণকারী চট্টগ্রামে ট্যাক্সিতে যায়।
+train	The physiotherapist explained dental care to the patient.	ফিজিওথেরাপিস্ট রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please bring a notebook now.	দয়া করে এখন একটি খাতা আনুন।
+train	My friend will prepare the documents after breakfast.	আমার বন্ধু সকালের নাশতার পরে কাগজপত্র প্রস্তুত করবে।
+train	The flower is brown.	ফুলটি বাদামি।
+train	Mina can ride a bicycle very well.	মিনা খুব ভালোভাবে সাইকেল চালাতে পারে।
+train	Please answer the question one more time.	দয়া করে আরেকবার প্রশ্নটির উত্তর দিন।
+train	Please check the document one more time.	দয়া করে আরেকবার নথিটি পরীক্ষা করুন।
+train	If it is hot, we will stay at home.	যদি গরম থাকে, আমরা বাড়িতে থাকব।
+train	The student studies English before class.	শিক্ষার্থী ইংরেজি ক্লাসের আগে পড়ে।
+train	The nutritionist explained regular exercise to the patient.	পুষ্টিবিদ রোগীকে নিয়মিত ব্যায়াম সম্পর্কে বুঝিয়ে বলেছেন।
+train	Mina can play football very well.	মিনা খুব ভালোভাবে ফুটবল খেলতে পারে।
+train	Mina can use a computer very well.	মিনা খুব ভালোভাবে কম্পিউটার ব্যবহার করতে পারে।
+train	The student studies computer science at night.	শিক্ষার্থী কম্পিউটার বিজ্ঞান রাতে পড়ে।
+train	There is a hall in the telephone.	হলে একটি টেলিফোন আছে।
+train	Rahim goes to the park every week.	রহিম প্রতি সপ্তাহে পার্কে যায়।
+train	There is a living room in the cabinet.	বসার ঘরে একটি আলমারি আছে।
+train	The traveler goes to Sylhet by taxi.	ভ্রমণকারী সিলেটে ট্যাক্সিতে যায়।
+train	If it rains, we will cancel the picnic.	যদি বৃষ্টি হয়, আমরা বনভোজন বাতিল করব।
+train	The baseline model is trained for headline generation.	বেসলাইন মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+train	every night, the family eats dinner together.	প্রতি রাতে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	The counselor explained drinking water to the patient.	পরামর্শদাতা রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	the young athlete can organize events very well.	তরুণ খেলোয়াড় খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	The engineer uses the computer to train a model.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	The traveler goes to Rajshahi by bus.	ভ্রমণকারী রাজশাহীতে বাসে যায়।
+train	before dinner, the family cleans the house.	রাতের খাবারের আগে পরিবারটি বাড়ি পরিষ্কার করে।
+train	Where can I buy a mobile charger in the station?	আমি স্টেশনে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	We measured parameter count for the baseline model.	আমরা বেসলাইন মডেলের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+train	Rina goes to school every week.	রিনা প্রতি সপ্তাহে স্কুলে যায়।
+train	The bag is purple.	ব্যাগটি বেগুনি।
+train	My friend will call the manager after breakfast.	আমার বন্ধু সকালের নাশতার পরে ব্যবস্থাপককে ফোন করবে।
+train	Rahim likes mangoes.	রহিম আম পছন্দ করে।
+train	Rahim reads a novel every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	The book is purple.	বইটি বেগুনি।
+train	The doctor explained stress management to the patient.	ডাক্তার রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	the student likes bananas.	শিক্ষার্থী কলা পছন্দ করে।
+train	The student studies physics in the afternoon.	শিক্ষার্থী পদার্থবিজ্ঞান বিকেলে পড়ে।
+train	The therapist explained stress management to the patient.	থেরাপিস্ট রোগীকে মানসিক চাপ নিয়ন্ত্রণ সম্পর্কে বুঝিয়ে বলেছেন।
+train	If it rains, we will go to the park.	যদি বৃষ্টি হয়, আমরা পার্কে যাব।
+train	The traveler goes to the city by boat.	ভ্রমণকারী শহরে নৌকায় যায়।
+train	The language model is trained for question answering.	ভাষা মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	the doctor reads a report every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The nurse explained routine checkups to the patient.	নার্স রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	We measured perplexity for the validation set.	আমরা ভ্যালিডেশন সেটের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	my sister can draw pictures very well.	আমার বোন খুব ভালোভাবে ছবি আঁকতে পারে।
+train	The traveler goes to the river port by car.	ভ্রমণকারী নদীবন্দরে গাড়িতে যায়।
+train	The student studies mathematics during the weekend.	শিক্ষার্থী গণিত সাপ্তাহিক ছুটিতে পড়ে।
+train	Mina reads a history book every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+train	Karim can organize events very well.	করিম খুব ভালোভাবে অনুষ্ঠান আয়োজন করতে পারে।
+train	The shopkeeper packed ten oranges.	দোকানদার দশটি কমলা প্যাক করেছে।
+train	Please answer the question now.	দয়া করে এখন প্রশ্নটির উত্তর দিন।
+train	The student uses the computer to design a website.	শিক্ষার্থী কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+train	Mina likes bananas.	মিনা কলা পছন্দ করে।
+train	Rahim reads a newspaper every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি সংবাদপত্র পড়ে।
+train	My friend will finish the project this afternoon.	আমার বন্ধু আজ বিকেলে প্রকল্পটি শেষ করবে।
+train	My friend will call the manager during the holiday.	আমার বন্ধু ছুটির সময় ব্যবস্থাপককে ফোন করবে।
+train	My friend will join the class at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে ক্লাসে যোগ দেবে।
+train	Karim likes rice.	করিম ভাত পছন্দ করে।
+train	The compact model is trained for language identification.	কমপ্যাক্ট মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	The health worker explained dental care to the patient.	স্বাস্থ্যকর্মী রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+train	The analyst uses the computer to analyze data.	বিশ্লেষক কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+train	The teacher uses the computer to solve a problem.	শিক্ষক কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	There is a classroom in the window.	শ্রেণিকক্ষে একটি জানালা আছে।
+train	The scientist uses the computer to train a model.	বিজ্ঞানী কম্পিউটার ব্যবহার করে একটি মডেল প্রশিক্ষণ দিতে।
+train	My friend will buy some groceries at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে কিছু মুদি পণ্য কিনবে।
+train	We measured accuracy for the validation set.	আমরা ভ্যালিডেশন সেটের নির্ভুলতা পরিমাপ করেছি।
+train	the farmer likes mangoes.	কৃষক আম পছন্দ করে।
+train	The traveler goes to the countryside by airplane.	ভ্রমণকারী গ্রামাঞ্চলে বিমানে যায়।
+train	The engineer uses the computer to create a report.	প্রকৌশলী কম্পিউটার ব্যবহার করে একটি প্রতিবেদন তৈরি করতে।
+train	the teacher can cook rice very well.	শিক্ষক খুব ভালোভাবে ভাত রান্না করতে পারে।
+train	the young athlete can solve puzzles very well.	তরুণ খেলোয়াড় খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+train	Mina can draw pictures very well.	মিনা খুব ভালোভাবে ছবি আঁকতে পারে।
+train	during the holiday, the family eats dinner together.	ছুটির সময় পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	The dentist explained routine checkups to the patient.	দন্তচিকিৎসক রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The umbrella is red.	ছাতাটি লাল।
+train	The cup is pink.	কাপটি গোলাপি।
+train	Please save the file now.	দয়া করে এখন ফাইলটি সংরক্ষণ করুন।
+train	my sister reads a novel every evening.	আমার বোন প্রতিদিন সন্ধ্যায় একটি উপন্যাস পড়ে।
+train	If it is cold, we will visit the market.	যদি ঠান্ডা থাকে, আমরা বাজারে যাব।
+train	every night, the family listens to music.	প্রতি রাতে পরিবারটি গান শোনে।
+train	The physiotherapist explained safe medicine use to the patient.	ফিজিওথেরাপিস্ট রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	My friend will join the class tomorrow.	আমার বন্ধু আগামীকাল ক্লাসে যোগ দেবে।
+train	The student studies economics in the morning.	শিক্ষার্থী অর্থনীতি সকালে পড়ে।
+train	before dinner, the family eats dinner together.	রাতের খাবারের আগে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+train	The pharmacy is park the behind.	ওষুধের দোকানটি পার্কটির পেছনে।
+train	If it is sunny, we will carry an umbrella.	যদি রোদ থাকে, আমরা ছাতা সঙ্গে নেব।
+train	The shopkeeper packed eight shirts.	দোকানদার আটটি শার্ট প্যাক করেছে।
+train	my brother goes to the park every week.	আমার ভাই প্রতি সপ্তাহে পার্কে যায়।
+train	Rina likes tea.	রিনা চা পছন্দ করে।
+train	during the weekend, the family listens to music.	সাপ্তাহিক ছুটিতে পরিবারটি গান শোনে।
+train	Mina likes rice.	মিনা ভাত পছন্দ করে।
+train	The student checked the results last night.	শিক্ষার্থী গত রাতে ফলাফলগুলো পরীক্ষা করেছে।
+train	Please read the instructions before you leave.	দয়া করে যাওয়ার আগে নির্দেশনাগুলো পড়ুন।
+train	the teacher likes bread.	শিক্ষক রুটি পছন্দ করে।
+train	Karim goes to the park every week.	করিম প্রতি সপ্তাহে পার্কে যায়।
+train	We measured memory usage for the test set.	আমরা টেস্ট সেটের মেমরি ব্যবহার পরিমাপ করেছি।
+train	The student completed the assignment before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	after class, the family walks in the park.	ক্লাসের পরে পরিবারটি পার্কে হাঁটে।
+train	The flower is black.	ফুলটি কালো।
+train	The student completed the assignment last week.	শিক্ষার্থী গত সপ্তাহে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+train	the teacher goes to the hospital every week.	শিক্ষক প্রতি সপ্তাহে হাসপাতালে যায়।
+train	The shopkeeper packed ten pens.	দোকানদার দশটি কলম প্যাক করেছে।
+train	Rina likes fish.	রিনা মাছ পছন্দ করে।
+train	during the weekend, the family cooks together.	সাপ্তাহিক ছুটিতে পরিবারটি একসঙ্গে রান্না করে।
+train	The student studies mathematics on Wednesday.	শিক্ষার্থী গণিত বুধবার পড়ে।
+train	the teacher reads a report every evening.	শিক্ষক প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The pharmacist explained safe medicine use to the patient.	ফার্মাসিস্ট রোগীকে নিরাপদ ওষুধ ব্যবহার সম্পর্কে বুঝিয়ে বলেছেন।
+train	The pharmacy is park the within walking distance of.	ওষুধের দোকানটি পার্কটির হাঁটা দূরত্বের মধ্যে।
+train	The technician uses the computer to solve a problem.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+train	There is a waiting room in the lamp.	অপেক্ষাকক্ষে একটি বাতি আছে।
+train	We measured tokenization speed for the small model.	আমরা ছোট মডেলের টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	My friend will join the class after breakfast.	আমার বন্ধু সকালের নাশতার পরে ক্লাসে যোগ দেবে।
+train	The encoder-decoder model is trained for English-to-Bangla translation.	এনকোডার-ডিকোডার মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+train	The shopkeeper packed four boxes.	দোকানদার চারটি বাক্স প্যাক করেছে।
+train	Please wait for the teacher carefully.	দয়া করে সাবধানে শিক্ষকের জন্য অপেক্ষা করুন।
+train	every afternoon, the family walks in the park.	প্রতিদিন বিকেলে পরিবারটি পার্কে হাঁটে।
+train	Please close the window before class.	দয়া করে ক্লাসের আগে জানালাটি বন্ধ করুন।
+train	We measured perplexity for the translation system.	আমরা অনুবাদ ব্যবস্থার পারপ্লেক্সিটি পরিমাপ করেছি।
+train	Where can I buy a mobile charger in the shopping mall?	আমি শপিং মলে একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+train	If it stops raining, we will close the windows.	যদি বৃষ্টি থেমে যায়, আমরা জানালাগুলো বন্ধ করব।
+train	every night, the family visits the grandparents.	প্রতি রাতে পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	The teacher uses the computer to store information.	শিক্ষক কম্পিউটার ব্যবহার করে তথ্য সংরক্ষণ করতে।
+train	The student prepared breakfast last night.	শিক্ষার্থী গত রাতে সকালের নাশতা তৈরি করেছে।
+train	The pharmacy is restaurant the beside.	ওষুধের দোকানটি রেস্তোরাঁটির পাশে।
+train	The neural network is trained for next-token prediction.	নিউরাল নেটওয়ার্কটি পরবর্তী টোকেন অনুমানের জন্য প্রশিক্ষিত।
+train	The traveler goes to Sylhet by metro.	ভ্রমণকারী সিলেটে মেট্রোতে যায়।
+train	The book is white.	বইটি সাদা।
+train	The surgeon explained hand hygiene to the patient.	সার্জন রোগীকে হাতের পরিচ্ছন্নতা সম্পর্কে বুঝিয়ে বলেছেন।
+train	My friend will prepare the documents next Monday.	আমার বন্ধু আগামী সোমবার কাগজপত্র প্রস্তুত করবে।
+train	my brother reads a science book every evening.	আমার ভাই প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+train	the student reads a report every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	Where can I buy a bus pass in the hospital area?	আমি হাসপাতাল এলাকায় একটি বাস পাস কোথায় কিনতে পারি?
+train	The pharmacy is mosque the beside.	ওষুধের দোকানটি মসজিদটির পাশে।
+train	Where can I buy a dictionary in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি অভিধান কোথায় কিনতে পারি?
+train	the teacher likes fish.	শিক্ষক মাছ পছন্দ করে।
+train	my brother can write clearly very well.	আমার ভাই খুব ভালোভাবে স্পষ্টভাবে লিখতে পারে।
+train	The physiotherapist explained drinking water to the patient.	ফিজিওথেরাপিস্ট রোগীকে পানি পান সম্পর্কে বুঝিয়ে বলেছেন।
+train	Please answer the question this morning.	দয়া করে আজ সকালে প্রশ্নটির উত্তর দিন।
+train	my sister likes bread.	আমার বোন রুটি পছন্দ করে।
+train	We measured perplexity for the new model.	আমরা নতুন মডেলের পারপ্লেক্সিটি পরিমাপ করেছি।
+train	The baseline model is trained for question answering.	বেসলাইন মডেলটি প্রশ্নোত্তরের জন্য প্রশিক্ষিত।
+train	during the holiday, the family visits the grandparents.	ছুটির সময় পরিবারটি দাদা-দাদিকে দেখতে যায়।
+train	Karim likes tea.	করিম চা পছন্দ করে।
+train	during the holiday, the family cooks together.	ছুটির সময় পরিবারটি একসঙ্গে রান্না করে।
+train	The shopkeeper packed three packages.	দোকানদার তিনটি প্যাকেট প্যাক করেছে।
+train	We measured accuracy for the baseline model.	আমরা বেসলাইন মডেলের নির্ভুলতা পরিমাপ করেছি।
+train	If it rains, we will wear warm clothes.	যদি বৃষ্টি হয়, আমরা গরম কাপড় পরব।
+train	There is a library in the clock.	গ্রন্থাগারে একটি ঘড়ি আছে।
+train	Mina reads a textbook every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+train	Rina goes to the university every week.	রিনা প্রতি সপ্তাহে বিশ্ববিদ্যালয়ে যায়।
+train	The pharmacy is bank the beside.	ওষুধের দোকানটি ব্যাংকটির পাশে।
+train	The shopkeeper packed seven apples.	দোকানদার সাতটি আপেল প্যাক করেছে।
+train	The student cleaned the room after class.	শিক্ষার্থী ক্লাসের পরে ঘরটি পরিষ্কার করেছে।
+train	Rahim goes to the market every week.	রহিম প্রতি সপ্তাহে বাজারে যায়।
+train	The pharmacy is restaurant the to the right of.	ওষুধের দোকানটি রেস্তোরাঁটির ডান পাশে।
+train	Where can I buy a cup of tea in the airport?	আমি বিমানবন্দরে এক কাপ চা কোথায় কিনতে পারি?
+train	The bag is black.	ব্যাগটি কালো।
+train	The traveler goes to Sylhet by bus.	ভ্রমণকারী সিলেটে বাসে যায়।
+train	Where can I buy a bus pass in the city center?	আমি শহরের কেন্দ্রে একটি বাস পাস কোথায় কিনতে পারি?
+train	There is a waiting room in the window.	অপেক্ষাকক্ষে একটি জানালা আছে।
+train	The language model is trained for language identification.	ভাষা মডেলটি ভাষা শনাক্তকরণের জন্য প্রশিক্ষিত।
+train	We measured tokenization speed for the first experiment.	আমরা প্রথম পরীক্ষার টোকেনাইজেশনের গতি পরিমাপ করেছি।
+train	The multilingual model is trained for text classification.	বহুভাষিক মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+train	If it becomes cooler, we will cancel the picnic.	যদি আবহাওয়া ঠান্ডা হয়, আমরা বনভোজন বাতিল করব।
+train	My friend will attend the meeting during the holiday.	আমার বন্ধু ছুটির সময় সভায় অংশ নেবে।
+train	If it is cloudy, we will wear warm clothes.	যদি আকাশ মেঘলা থাকে, আমরা গরম কাপড় পরব।
+train	The shopkeeper packed two notebooks.	দোকানদার দুটি খাতা প্যাক করেছে।
+train	The student opened the window yesterday.	শিক্ষার্থী গতকাল জানালাটি খুলেছে।
+train	If it becomes cooler, we will carry an umbrella.	যদি আবহাওয়া ঠান্ডা হয়, আমরা ছাতা সঙ্গে নেব।
+train	Karim reads a report every evening.	করিম প্রতিদিন সন্ধ্যায় একটি প্রতিবেদন পড়ে।
+train	The pharmacy is market the within walking distance of.	ওষুধের দোকানটি বাজারটির হাঁটা দূরত্বের মধ্যে।
+train	The traveler goes to the airport by boat.	ভ্রমণকারী বিমানবন্দরে নৌকায় যায়।
+train	Where can I buy a bus pass in this neighborhood?	আমি এই এলাকায় একটি বাস পাস কোথায় কিনতে পারি?
+train	The pharmacy is hospital the to the left of.	ওষুধের দোকানটি হাসপাতালটির বাম পাশে।
+train	The student studies biology during the weekend.	শিক্ষার্থী জীববিজ্ঞান সাপ্তাহিক ছুটিতে পড়ে।
+train	Please bring a notebook after lunch.	দয়া করে দুপুরের খাবারের পরে একটি খাতা আনুন।
+train	If it remains clear, we will wear warm clothes.	যদি আকাশ পরিষ্কার থাকে, আমরা গরম কাপড় পরব।
+train	Please bring a notebook this morning.	দয়া করে আজ সকালে একটি খাতা আনুন।
+train	Rahim goes to the station every week.	রহিম প্রতি সপ্তাহে স্টেশনে যায়।
+train	The pharmacist explained first aid to the patient.	ফার্মাসিস্ট রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+train	The traveler goes to Cumilla by bicycle.	ভ্রমণকারী কুমিল্লায় সাইকেলে যায়।
+validation	The technician uses the computer to write code.	প্রযুক্তিবিদ কম্পিউটার ব্যবহার করে কোড লিখতে।
+validation	The shopkeeper packed one notebooks.	দোকানদার একটি খাতা প্যাক করেছে।
+validation	We measured generation quality for the translation system.	আমরা অনুবাদ ব্যবস্থার উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+validation	We measured inference time for the training set.	আমরা প্রশিক্ষণ সেটের ইনফারেন্স সময় পরিমাপ করেছি।
+validation	My friend will visit the library next week.	আমার বন্ধু আগামী সপ্তাহে গ্রন্থাগারে যাবে।
+validation	Where can I buy some medicine in the airport?	আমি বিমানবন্দরে কিছু ওষুধ কোথায় কিনতে পারি?
+validation	The multilingual model is trained for headline generation.	বহুভাষিক মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+validation	Where can I buy a bottle of water in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় এক বোতল পানি কোথায় কিনতে পারি?
+validation	The pharmacy is mosque the within walking distance of.	ওষুধের দোকানটি মসজিদটির হাঁটা দূরত্বের মধ্যে।
+validation	My friend will review the lesson before noon.	আমার বন্ধু দুপুরের আগে পাঠটি পুনরায় দেখবে।
+validation	Rina reads a short story every evening.	রিনা প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+validation	Please bring a notebook one more time.	দয়া করে আরেকবার একটি খাতা আনুন।
+validation	The language model is trained for text summarization.	ভাষা মডেলটি টেক্সট সারসংক্ষেপের জন্য প্রশিক্ষিত।
+validation	Mina goes to the hospital every week.	মিনা প্রতি সপ্তাহে হাসপাতালে যায়।
+validation	If it is foggy, we will carry an umbrella.	যদি কুয়াশা থাকে, আমরা ছাতা সঙ্গে নেব।
+validation	The flower is yellow.	ফুলটি হলুদ।
+validation	The student studies physics before class.	শিক্ষার্থী পদার্থবিজ্ঞান ক্লাসের আগে পড়ে।
+validation	The pharmacy is restaurant the in front of.	ওষুধের দোকানটি রেস্তোরাঁটির সামনে।
+validation	The health worker explained routine checkups to the patient.	স্বাস্থ্যকর্মী রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+validation	The student cleaned the room yesterday.	শিক্ষার্থী গতকাল ঘরটি পরিষ্কার করেছে।
+validation	There is a store in the chair.	দোকানে একটি চেয়ার আছে।
+validation	There is a store in the fan.	দোকানে একটি পাখা আছে।
+validation	Rina likes rice.	রিনা ভাত পছন্দ করে।
+validation	The student cleaned the room this morning.	শিক্ষার্থী আজ সকালে ঘরটি পরিষ্কার করেছে।
+validation	We measured parameter count for the first experiment.	আমরা প্রথম পরীক্ষার প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+validation	My friend will review the lesson this afternoon.	আমার বন্ধু আজ বিকেলে পাঠটি পুনরায় দেখবে।
+validation	Rahim can solve puzzles very well.	রহিম খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+validation	The traveler goes to Cumilla by taxi.	ভ্রমণকারী কুমিল্লায় ট্যাক্সিতে যায়।
+validation	The student opened the window before lunch.	শিক্ষার্থী দুপুরের খাবারের আগে জানালাটি খুলেছে।
+validation	The traveler goes to Chattogram by bicycle.	ভ্রমণকারী চট্টগ্রামে সাইকেলে যায়।
+validation	Mina reads a short story every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি ছোটগল্প পড়ে।
+validation	If it is foggy, we will wear warm clothes.	যদি কুয়াশা থাকে, আমরা গরম কাপড় পরব।
+validation	the farmer goes to the station every week.	কৃষক প্রতি সপ্তাহে স্টেশনে যায়।
+validation	Where can I buy a mobile charger in the university area?	আমি বিশ্ববিদ্যালয় এলাকায় একটি মোবাইল চার্জার কোথায় কিনতে পারি?
+validation	the doctor likes soup.	ডাক্তার স্যুপ পছন্দ করে।
+validation	The pharmacy is school the beside.	ওষুধের দোকানটি স্কুলটির পাশে।
+validation	The pharmacy is station the in front of.	ওষুধের দোকানটি স্টেশনটির সামনে।
+validation	the doctor reads a history book every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি ইতিহাসের বই পড়ে।
+validation	The compact model is trained for English-to-Bangla translation.	কমপ্যাক্ট মডেলটি ইংরেজি থেকে বাংলা অনুবাদের জন্য প্রশিক্ষিত।
+validation	There is a library in the chair.	গ্রন্থাগারে একটি চেয়ার আছে।
+validation	The researcher uses the computer to solve a problem.	গবেষক কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+validation	The bicycle is white.	সাইকেলটি সাদা।
+validation	The attention model is trained for headline generation.	অ্যাটেনশন মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+validation	The developer uses the computer to solve a problem.	ডেভেলপার কম্পিউটার ব্যবহার করে একটি সমস্যা সমাধান করতে।
+validation	The bicycle is purple.	সাইকেলটি বেগুনি।
+validation	Where can I buy fresh vegetables in the bus terminal?	আমি বাস টার্মিনালে তাজা সবজি কোথায় কিনতে পারি?
+validation	The student studies biology on Friday.	শিক্ষার্থী জীববিজ্ঞান শুক্রবার পড়ে।
+validation	The bag is yellow.	ব্যাগটি হলুদ।
+validation	We measured tokenization speed for the second experiment.	আমরা দ্বিতীয় পরীক্ষার টোকেনাইজেশনের গতি পরিমাপ করেছি।
+validation	Where can I buy fresh vegetables in this village?	আমি এই গ্রামে তাজা সবজি কোথায় কিনতে পারি?
+validation	The student studies mathematics after class.	শিক্ষার্থী গণিত ক্লাসের পরে পড়ে।
+validation	We measured generation quality for the new model.	আমরা নতুন মডেলের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+validation	The student studies computer science in the evening.	শিক্ষার্থী কম্পিউটার বিজ্ঞান সন্ধ্যায় পড়ে।
+validation	the farmer reads a science book every evening.	কৃষক প্রতিদিন সন্ধ্যায় একটি বিজ্ঞানের বই পড়ে।
+validation	The nutritionist explained first aid to the patient.	পুষ্টিবিদ রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+validation	My friend will visit the library before noon.	আমার বন্ধু দুপুরের আগে গ্রন্থাগারে যাবে।
+validation	The translation model is trained for Bangla-to-English translation.	অনুবাদ মডেলটি বাংলা থেকে ইংরেজি অনুবাদের জন্য প্রশিক্ষিত।
+validation	The researcher uses the computer to write code.	গবেষক কম্পিউটার ব্যবহার করে কোড লিখতে।
+validation	The pharmacy is hospital the behind.	ওষুধের দোকানটি হাসপাতালটির পেছনে।
+validation	My friend will buy some groceries next week.	আমার বন্ধু আগামী সপ্তাহে কিছু মুদি পণ্য কিনবে।
+validation	every night, the family plays indoor games.	প্রতি রাতে পরিবারটি ঘরের ভেতর খেলা করে।
+validation	The shopkeeper packed five oranges.	দোকানদার পাঁচটি কমলা প্যাক করেছে।
+validation	Please bring a notebook carefully.	দয়া করে সাবধানে একটি খাতা আনুন।
+validation	If it remains clear, we will drink more water.	যদি আকাশ পরিষ্কার থাকে, আমরা আরও পানি পান করব।
+validation	The cup is blue.	কাপটি নীল।
+validation	every night, the family watches a movie.	প্রতি রাতে পরিবারটি একটি সিনেমা দেখে।
+validation	Rina likes bread.	রিনা রুটি পছন্দ করে।
+validation	The student studies computer science on Friday.	শিক্ষার্থী কম্পিউটার বিজ্ঞান শুক্রবার পড়ে।
+validation	The student uses the computer to analyze data.	শিক্ষার্থী কম্পিউটার ব্যবহার করে ডেটা বিশ্লেষণ করতে।
+validation	The shopkeeper packed five shirts.	দোকানদার পাঁচটি শার্ট প্যাক করেছে।
+validation	the student can explain lessons very well.	শিক্ষার্থী খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+validation	We measured parameter count for the new model.	আমরা নতুন মডেলের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+validation	my sister can cook rice very well.	আমার বোন খুব ভালোভাবে ভাত রান্না করতে পারে।
+validation	during the weekend, the family plans the next week.	সাপ্তাহিক ছুটিতে পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+validation	Karim likes bananas.	করিম কলা পছন্দ করে।
+validation	Where can I buy a new shirt in the bus terminal?	আমি বাস টার্মিনালে একটি নতুন শার্ট কোথায় কিনতে পারি?
+validation	Where can I buy some medicine in the station?	আমি স্টেশনে কিছু ওষুধ কোথায় কিনতে পারি?
+validation	If it is cloudy, we will travel carefully.	যদি আকাশ মেঘলা থাকে, আমরা সাবধানে ভ্রমণ করব।
+validation	The shopkeeper packed seven oranges.	দোকানদার সাতটি কমলা প্যাক করেছে।
+validation	Please open the door before class.	দয়া করে ক্লাসের আগে দরজাটি খুলুন।
+validation	on Monday, the family plans the next week.	সোমবার পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+validation	The shirt is red.	শার্টটি লাল।
+validation	Please open the door before you leave.	দয়া করে যাওয়ার আগে দরজাটি খুলুন।
+validation	My friend will visit the library tomorrow.	আমার বন্ধু আগামীকাল গ্রন্থাগারে যাবে।
+validation	The student studies history in the evening.	শিক্ষার্থী ইতিহাস সন্ধ্যায় পড়ে।
+validation	There is a living room in the whiteboard.	বসার ঘরে একটি সাদা বোর্ড আছে।
+validation	The therapist explained dental care to the patient.	থেরাপিস্ট রোগীকে দাঁতের যত্ন সম্পর্কে বুঝিয়ে বলেছেন।
+validation	The traveler goes to Sylhet by motorcycle.	ভ্রমণকারী সিলেটে মোটরসাইকেলে যায়।
+validation	We measured generation quality for the second experiment.	আমরা দ্বিতীয় পরীক্ষার উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+validation	Please answer the question after lunch.	দয়া করে দুপুরের খাবারের পরে প্রশ্নটির উত্তর দিন।
+validation	The pharmacy is mosque the in front of.	ওষুধের দোকানটি মসজিদটির সামনে।
+validation	The traveler goes to Khulna by bus.	ভ্রমণকারী খুলনায় বাসে যায়।
+validation	My friend will attend the meeting tomorrow.	আমার বন্ধু আগামীকাল সভায় অংশ নেবে।
+validation	The student prepared breakfast during the break.	শিক্ষার্থী বিরতির সময় সকালের নাশতা তৈরি করেছে।
+validation	the teacher likes soup.	শিক্ষক স্যুপ পছন্দ করে।
+validation	My friend will finish the project at ten o'clock.	আমার বন্ধু দশটায় প্রকল্পটি শেষ করবে।
+validation	My friend will review the lesson at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে পাঠটি পুনরায় দেখবে।
+validation	Please send the message when you are ready.	দয়া করে আপনি প্রস্তুত হলে বার্তাটি পাঠান।
+validation	The student studies computer science on Monday.	শিক্ষার্থী কম্পিউটার বিজ্ঞান সোমবার পড়ে।
+validation	My friend will join the class next week.	আমার বন্ধু আগামী সপ্তাহে ক্লাসে যোগ দেবে।
+test	every evening, the family plans the next week.	প্রতিদিন সন্ধ্যায় পরিবারটি পরের সপ্তাহের পরিকল্পনা করে।
+test	There is a classroom in the whiteboard.	শ্রেণিকক্ষে একটি সাদা বোর্ড আছে।
+test	There is a laboratory in the fan.	গবেষণাগারে একটি পাখা আছে।
+test	The traveler goes to Sylhet by bicycle.	ভ্রমণকারী সিলেটে সাইকেলে যায়।
+test	There is a library in the whiteboard.	গ্রন্থাগারে একটি সাদা বোর্ড আছে।
+test	If it rains, we will visit the market.	যদি বৃষ্টি হয়, আমরা বাজারে যাব।
+test	My friend will attend the meeting next Monday.	আমার বন্ধু আগামী সোমবার সভায় অংশ নেবে।
+test	The pharmacist explained routine checkups to the patient.	ফার্মাসিস্ট রোগীকে নিয়মিত স্বাস্থ্য পরীক্ষা সম্পর্কে বুঝিয়ে বলেছেন।
+test	We measured inference time for the second experiment.	আমরা দ্বিতীয় পরীক্ষার ইনফারেন্স সময় পরিমাপ করেছি।
+test	We measured accuracy for the test set.	আমরা টেস্ট সেটের নির্ভুলতা পরিমাপ করেছি।
+test	Rahim reads an article every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি নিবন্ধ পড়ে।
+test	If it stops raining, we will drink more water.	যদি বৃষ্টি থেমে যায়, আমরা আরও পানি পান করব।
+test	We measured tokenization speed for the translation system.	আমরা অনুবাদ ব্যবস্থার টোকেনাইজেশনের গতি পরিমাপ করেছি।
+test	If it is windy, we will go to the park.	যদি বাতাস থাকে, আমরা পার্কে যাব।
+test	my brother likes mangoes.	আমার ভাই আম পছন্দ করে।
+test	The student studies Bangla in the evening.	শিক্ষার্থী বাংলা সন্ধ্যায় পড়ে।
+test	Where can I buy a new shirt in the station?	আমি স্টেশনে একটি নতুন শার্ট কোথায় কিনতে পারি?
+test	during the weekend, the family shares stories.	সাপ্তাহিক ছুটিতে পরিবারটি গল্প ভাগাভাগি করে।
+test	My friend will prepare the documents this evening.	আমার বন্ধু আজ সন্ধ্যায় কাগজপত্র প্রস্তুত করবে।
+test	the farmer goes to the hospital every week.	কৃষক প্রতি সপ্তাহে হাসপাতালে যায়।
+test	the teacher likes vegetables.	শিক্ষক সবজি পছন্দ করে।
+test	Please read the instructions before class.	দয়া করে ক্লাসের আগে নির্দেশনাগুলো পড়ুন।
+test	The traveler goes to the river port by bicycle.	ভ্রমণকারী নদীবন্দরে সাইকেলে যায়।
+test	The umbrella is green.	ছাতাটি সবুজ।
+test	There is a library in the table.	গ্রন্থাগারে একটি টেবিল আছে।
+test	If it is foggy, we will drink more water.	যদি কুয়াশা থাকে, আমরা আরও পানি পান করব।
+test	The translation model is trained for text classification.	অনুবাদ মডেলটি টেক্সট শ্রেণিবিন্যাসের জন্য প্রশিক্ষিত।
+test	The student repaired the bicycle after class.	শিক্ষার্থী ক্লাসের পরে সাইকেলটি মেরামত করেছে।
+test	The student opened the window during the break.	শিক্ষার্থী বিরতির সময় জানালাটি খুলেছে।
+test	the young athlete can explain lessons very well.	তরুণ খেলোয়াড় খুব ভালোভাবে পাঠ বুঝিয়ে বলতে পারে।
+test	The shopkeeper packed one books.	দোকানদার একটি বই প্যাক করেছে।
+test	The flower is red.	ফুলটি লাল।
+test	my brother likes fish.	আমার ভাই মাছ পছন্দ করে।
+test	There is a living room in the window.	বসার ঘরে একটি জানালা আছে।
+test	The compact model is trained for headline generation.	কমপ্যাক্ট মডেলটি শিরোনাম তৈরির জন্য প্রশিক্ষিত।
+test	the student reads a poem every evening.	শিক্ষার্থী প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+test	The pharmacy is mosque the south of.	ওষুধের দোকানটি মসজিদটির দক্ষিণে।
+test	The therapist explained healthy eating to the patient.	থেরাপিস্ট রোগীকে স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে বুঝিয়ে বলেছেন।
+test	Please answer the question as soon as possible.	দয়া করে যত দ্রুত সম্ভব প্রশ্নটির উত্তর দিন।
+test	the doctor goes to the village every week.	ডাক্তার প্রতি সপ্তাহে গ্রামে যায়।
+test	the teacher can solve puzzles very well.	শিক্ষক খুব ভালোভাবে ধাঁধা সমাধান করতে পারে।
+test	The student studies computer science in the afternoon.	শিক্ষার্থী কম্পিউটার বিজ্ঞান বিকেলে পড়ে।
+test	The student answered the question after class.	শিক্ষার্থী ক্লাসের পরে প্রশ্নটির উত্তর দিয়েছে।
+test	There is a bedroom in the lamp.	শোবার ঘরে একটি বাতি আছে।
+test	If it is cold, we will close the windows.	যদি ঠান্ডা থাকে, আমরা জানালাগুলো বন্ধ করব।
+test	There is a office in the window.	অফিসে একটি জানালা আছে।
+test	the farmer likes tea.	কৃষক চা পছন্দ করে।
+test	There is a living room in the fan.	বসার ঘরে একটি পাখা আছে।
+test	the doctor likes coffee.	ডাক্তার কফি পছন্দ করে।
+test	We measured generation quality for the baseline model.	আমরা বেসলাইন মডেলের উৎপন্ন টেক্সটের মান পরিমাপ করেছি।
+test	The shopkeeper packed nine packages.	দোকানদার নয়টি প্যাকেট প্যাক করেছে।
+test	Where can I buy a bus pass in the station?	আমি স্টেশনে একটি বাস পাস কোথায় কিনতে পারি?
+test	on Monday, the family cooks together.	সোমবার পরিবারটি একসঙ্গে রান্না করে।
+test	The traveler goes to Chattogram by metro.	ভ্রমণকারী চট্টগ্রামে মেট্রোতে যায়।
+test	We measured memory usage for the second experiment.	আমরা দ্বিতীয় পরীক্ষার মেমরি ব্যবহার পরিমাপ করেছি।
+test	The shopkeeper packed ten shirts.	দোকানদার দশটি শার্ট প্যাক করেছে।
+test	The teacher uses the computer to test the software.	শিক্ষক কম্পিউটার ব্যবহার করে সফটওয়্যার পরীক্ষা করতে।
+test	Please check the document before you leave.	দয়া করে যাওয়ার আগে নথিটি পরীক্ষা করুন।
+test	The traveler goes to Cumilla by rickshaw.	ভ্রমণকারী কুমিল্লায় রিকশায় যায়।
+test	the teacher can speak English very well.	শিক্ষক খুব ভালোভাবে ইংরেজি বলতে পারে।
+test	Where can I buy a dictionary in the airport?	আমি বিমানবন্দরে একটি অভিধান কোথায় কিনতে পারি?
+test	Karim goes to the hospital every week.	করিম প্রতি সপ্তাহে হাসপাতালে যায়।
+test	If it becomes cooler, we will stay at home.	যদি আবহাওয়া ঠান্ডা হয়, আমরা বাড়িতে থাকব।
+test	the teacher can play football very well.	শিক্ষক খুব ভালোভাবে ফুটবল খেলতে পারে।
+test	The student studies geography during the weekend.	শিক্ষার্থী ভূগোল সাপ্তাহিক ছুটিতে পড়ে।
+test	The student completed the assignment after class.	শিক্ষার্থী ক্লাসের পরে অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+test	The nurse explained first aid to the patient.	নার্স রোগীকে প্রাথমিক চিকিৎসা সম্পর্কে বুঝিয়ে বলেছেন।
+test	on Friday, the family walks in the park.	শুক্রবার পরিবারটি পার্কে হাঁটে।
+test	The designer uses the computer to read an article.	ডিজাইনার কম্পিউটার ব্যবহার করে একটি নিবন্ধ পড়তে।
+test	We measured parameter count for the validation set.	আমরা ভ্যালিডেশন সেটের প্যারামিটারের সংখ্যা পরিমাপ করেছি।
+test	Please send the message one more time.	দয়া করে আরেকবার বার্তাটি পাঠান।
+test	My friend will call the manager tomorrow.	আমার বন্ধু আগামীকাল ব্যবস্থাপককে ফোন করবে।
+test	Please wait for the teacher one more time.	দয়া করে আরেকবার শিক্ষকের জন্য অপেক্ষা করুন।
+test	every morning, the family eats dinner together.	প্রতিদিন সকালে পরিবারটি একসঙ্গে রাতের খাবার খায়।
+test	The shirt is pink.	শার্টটি গোলাপি।
+test	the student goes to the park every week.	শিক্ষার্থী প্রতি সপ্তাহে পার্কে যায়।
+test	The student answered the question last night.	শিক্ষার্থী গত রাতে প্রশ্নটির উত্তর দিয়েছে।
+test	The pharmacy is market the near.	ওষুধের দোকানটি বাজারটির কাছে।
+test	after class, the family shares stories.	ক্লাসের পরে পরিবারটি গল্প ভাগাভাগি করে।
+test	on Monday, the family eats dinner together.	সোমবার পরিবারটি একসঙ্গে রাতের খাবার খায়।
+test	the farmer likes fish.	কৃষক মাছ পছন্দ করে।
+test	my brother goes to the market every week.	আমার ভাই প্রতি সপ্তাহে বাজারে যায়।
+test	my brother goes to the office every week.	আমার ভাই প্রতি সপ্তাহে অফিসে যায়।
+test	The teacher uses the computer to design a website.	শিক্ষক কম্পিউটার ব্যবহার করে একটি ওয়েবসাইট ডিজাইন করতে।
+test	The student completed the assignment in the evening.	শিক্ষার্থী সন্ধ্যায় অ্যাসাইনমেন্টটি সম্পন্ন করেছে।
+test	my sister likes tea.	আমার বোন চা পছন্দ করে।
+test	The car is orange.	গাড়িটি কমলা রঙের।
+test	The language model is trained for intent detection.	ভাষা মডেলটি উদ্দেশ্য শনাক্তকরণের জন্য প্রশিক্ষিত।
+test	Where can I buy a train ticket in the shopping mall?	আমি শপিং মলে একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+test	My friend will travel to the city after breakfast.	আমার বন্ধু সকালের নাশতার পরে শহরে যাবে।
+test	Rahim reads a textbook every evening.	রহিম প্রতিদিন সন্ধ্যায় একটি পাঠ্যবই পড়ে।
+test	Where can I buy a notebook in the hospital area?	আমি হাসপাতাল এলাকায় একটি খাতা কোথায় কিনতে পারি?
+test	the doctor reads a poem every evening.	ডাক্তার প্রতিদিন সন্ধ্যায় একটি কবিতা পড়ে।
+test	on Friday, the family eats dinner together.	শুক্রবার পরিবারটি একসঙ্গে রাতের খাবার খায়।
+test	The student studies mathematics in the afternoon.	শিক্ষার্থী গণিত বিকেলে পড়ে।
+test	The student studies geography at night.	শিক্ষার্থী ভূগোল রাতে পড়ে।
+test	Where can I buy a train ticket in the hospital area?	আমি হাসপাতাল এলাকায় একটি ট্রেনের টিকিট কোথায় কিনতে পারি?
+test	the student goes to the market every week.	শিক্ষার্থী প্রতি সপ্তাহে বাজারে যায়।
+test	Mina reads a magazine every evening.	মিনা প্রতিদিন সন্ধ্যায় একটি সাময়িকী পড়ে।
+test	My friend will attend the meeting at the weekend.	আমার বন্ধু সাপ্তাহিক ছুটিতে সভায় অংশ নেবে।
